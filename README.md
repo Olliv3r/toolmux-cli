@@ -2,28 +2,28 @@
 Instalador de ferramentas no ambiente termux no android.
 
 #### Principal:
-![Screnshot](https://github.com/Olliv3r/toolmux/blob/main/media/main.jpg)
+![Screnshot](https://github.com/Olliv3r/toolmux-cli/blob/main/media/main.jpg)
 
 #### Categorias:
-![Screnshot 2](https://github.com/Olliv3r/toolmux/blob/main/media/categories.jpg)
+![Screnshot 2](https://github.com/Olliv3r/toolmux-cli/blob/main/media/categories.jpg)
 
 #### Ferramentas:
 
 Instale várias ferramentas de uma vez:
 
-![Screnshot 3](https://github.com/Olliv3r/toolmux/blob/main/media/multi-options.jpg)
+![Screnshot 3](https://github.com/Olliv3r/toolmux-cli/blob/main/media/multi-options.jpg)
 
 ### Instalação:
 ```
 apt update
 apt upgrade
 apt install python git -y
-git clone https://github.com/Olliv3r/Toolmux ~/Toolmux
+git clone https://github.com/Olliv3r/toolmux-cli ~/toolmux-cli
 ```
 
 ### Execução:
 ```
-cd ~/Toolmux
+cd ~/toolmux-cli
 chmod +x toolmux.py
 ./toolmux.py
 ```

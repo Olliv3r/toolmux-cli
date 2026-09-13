@@ -35,7 +35,7 @@ chmod +x toolmux.py
 > Caso você tenha uma listas de ferramentas e tem interesse em adicioná-las na base do `toolmux`, mande para [tiooliver](https://t.me/tiooliver_sh) no telegram que iremos cadastrar um por um.
 
 
-Se junte a comunidade [Toolmux Community](https://toolmuxapp.pythonanywhere.com/community/community).
+Se junte a comunidade [Toolmux Community](https://toolmuxapp.pythonanywhere.com/community).
 
 ## Licença
 

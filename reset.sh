@@ -1,23 +1,15 @@
 #!/usr/bin/env bash
-#
-#
+set -u
 
-dir=.
-tp="d"
-nm="__pycache__"
+found=0
+while IFS= read -r -d '' cache_dir; do
+    printf 'Removendo %s\n' "$cache_dir"
+    rm -rf -- "$cache_dir"
+    found=1
+done < <(find . -type d -name '__pycache__' -print0)
 
-text="Removendo cache do Python"
-
-r=$(find $dir -type "$tp" -name "$nm" -exec rm -rf {} +)
-
-echo "Removendo cache do python..."
-
-if [ -n "$r" ]; then
-	echo "$text...OK"
-
-elif [ -z "$r" ]; then
-	echo "$text...Already"
-
+if [ "$found" -eq 0 ]; then
+    echo "Nenhum cache do Python encontrado."
 else
-	echo "$text...Failed"
+    echo "Cache do Python removido."
 fi

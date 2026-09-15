@@ -26,3 +26,6 @@ data.json
 TestResults.xml
 *.py~
 venv
+
+# Toolmux local configuration
+.env

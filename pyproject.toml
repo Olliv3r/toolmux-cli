@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "toolmux-cli"
+version = "0.2.0"
+description = "Instalador de ferramentas para Termux"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+authors = [{name = "Olliv3r"}]
+dependencies = [
+    "requests>=2.32,<3",
+    "python-dotenv>=1.0,<2",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8,<9",
+    "ruff>=0.13,<1",
+]
+
+[project.scripts]
+toolmux = "toolmux_app.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["toolmux_app*"]
+
+[tool.setuptools.package-data]
+toolmux_app = ["resources/banners/*.txt"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"

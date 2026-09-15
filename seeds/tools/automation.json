@@ -1,0 +1,562 @@
+[
+  {
+    "slug": "ansible",
+    "name": "Ansible",
+    "category": "Extra",
+    "description": "Ansible é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial ansible/ansible para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/ansible/ansible",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "ansible",
+      "repository_url": "https://github.com/ansible/ansible.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "ansible",
+    "homepage": "https://github.com/ansible/ansible",
+    "executable": "ansible"
+  },
+  {
+    "slug": "invoke",
+    "name": "Invoke",
+    "category": "Extra",
+    "description": "Invoke é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial pyinvoke/invoke para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/pyinvoke/invoke",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "invoke",
+      "repository_url": "https://github.com/pyinvoke/invoke.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "pyinvoke",
+    "homepage": "https://github.com/pyinvoke/invoke",
+    "executable": "invoke"
+  },
+  {
+    "slug": "task",
+    "name": "Task",
+    "category": "Extra",
+    "description": "Task é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial go-task/task para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/go-task/task",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "task",
+      "repository_url": "https://github.com/go-task/task.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "go-task",
+    "homepage": "https://github.com/go-task/task",
+    "executable": "task"
+  },
+  {
+    "slug": "just",
+    "name": "Just",
+    "category": "Extra",
+    "description": "Just é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial casey/just para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/casey/just",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "just",
+      "repository_url": "https://github.com/casey/just.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "casey",
+    "homepage": "https://github.com/casey/just",
+    "executable": "just"
+  },
+  {
+    "slug": "httpie",
+    "name": "HTTPie",
+    "category": "Extra",
+    "description": "HTTPie é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial httpie/cli para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/httpie/cli",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "cli",
+      "repository_url": "https://github.com/httpie/cli.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "httpie",
+    "homepage": "https://github.com/httpie/cli",
+    "executable": "httpie"
+  },
+  {
+    "slug": "xh",
+    "name": "Xh",
+    "category": "Extra",
+    "description": "Xh é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial ducaale/xh para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/ducaale/xh",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "xh",
+      "repository_url": "https://github.com/ducaale/xh.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "ducaale",
+    "homepage": "https://github.com/ducaale/xh",
+    "executable": "xh"
+  },
+  {
+    "slug": "restic",
+    "name": "Restic",
+    "category": "Extra",
+    "description": "Restic é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial restic/restic para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/restic/restic",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "restic",
+      "repository_url": "https://github.com/restic/restic.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "restic",
+    "homepage": "https://github.com/restic/restic",
+    "executable": "restic"
+  },
+  {
+    "slug": "rclone",
+    "name": "Rclone",
+    "category": "Extra",
+    "description": "Rclone é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial rclone/rclone para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/rclone/rclone",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "rclone",
+      "repository_url": "https://github.com/rclone/rclone.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "rclone",
+    "homepage": "https://github.com/rclone/rclone",
+    "executable": "rclone"
+  },
+  {
+    "slug": "syncthing",
+    "name": "Syncthing",
+    "category": "Extra",
+    "description": "Syncthing é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial syncthing/syncthing para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/syncthing/syncthing",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "syncthing",
+      "repository_url": "https://github.com/syncthing/syncthing.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "syncthing",
+    "homepage": "https://github.com/syncthing/syncthing",
+    "executable": "syncthing"
+  },
+  {
+    "slug": "mkcert",
+    "name": "Mkcert",
+    "category": "Extra",
+    "description": "Mkcert é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial FiloSottile/mkcert para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/FiloSottile/mkcert",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "mkcert",
+      "repository_url": "https://github.com/FiloSottile/mkcert.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "FiloSottile",
+    "homepage": "https://github.com/FiloSottile/mkcert",
+    "executable": "mkcert"
+  },
+  {
+    "slug": "caldera",
+    "name": "caldera",
+    "category": "Extra",
+    "description": "caldera é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial MITRE/caldera para validação de compatibilidade e instalação no Termux.",
+    "author": "MITRE",
+    "executable": "caldera",
+    "repository": "https://github.com/MITRE/caldera",
+    "homepage": "https://github.com/MITRE/caldera",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "caldera",
+      "repository_url": "https://github.com/MITRE/caldera.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "charmbracelet-gum",
+    "name": "gum",
+    "category": "Extra",
+    "description": "gum é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial charmbracelet/gum para validação de compatibilidade e instalação no Termux.",
+    "author": "charmbracelet",
+    "executable": "gum",
+    "repository": "https://github.com/charmbracelet/gum",
+    "homepage": "https://github.com/charmbracelet/gum",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "gum",
+      "repository_url": "https://github.com/charmbracelet/gum.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "vhs",
+    "name": "vhs",
+    "category": "Extra",
+    "description": "vhs é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial charmbracelet/vhs para validação de compatibilidade e instalação no Termux.",
+    "author": "charmbracelet",
+    "executable": "vhs",
+    "repository": "https://github.com/charmbracelet/vhs",
+    "homepage": "https://github.com/charmbracelet/vhs",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "vhs",
+      "repository_url": "https://github.com/charmbracelet/vhs.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "mods",
+    "name": "mods",
+    "category": "Extra",
+    "description": "mods é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial charmbracelet/mods para validação de compatibilidade e instalação no Termux.",
+    "author": "charmbracelet",
+    "executable": "mods",
+    "repository": "https://github.com/charmbracelet/mods",
+    "homepage": "https://github.com/charmbracelet/mods",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "mods",
+      "repository_url": "https://github.com/charmbracelet/mods.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "casey-just",
+    "name": "just",
+    "category": "Extra",
+    "description": "just é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial casey/just para validação de compatibilidade e instalação no Termux.",
+    "author": "casey",
+    "executable": "just",
+    "repository": "https://github.com/casey/just",
+    "homepage": "https://github.com/casey/just",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "just",
+      "repository_url": "https://github.com/casey/just.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "watchexec-watchexec",
+    "name": "watchexec",
+    "category": "Extra",
+    "description": "watchexec é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial watchexec/watchexec para validação de compatibilidade e instalação no Termux.",
+    "author": "watchexec",
+    "executable": "watchexec",
+    "repository": "https://github.com/watchexec/watchexec",
+    "homepage": "https://github.com/watchexec/watchexec",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "watchexec",
+      "repository_url": "https://github.com/watchexec/watchexec.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  }
+]

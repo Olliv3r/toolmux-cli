@@ -1,0 +1,1087 @@
+[
+  {
+    "slug": "sqlmap",
+    "name": "SQLMap",
+    "category": "Web Applications",
+    "description": "SQLMap é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial sqlmapproject/sqlmap para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/sqlmapproject/sqlmap",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "sqlmap",
+      "repository_url": "https://github.com/sqlmapproject/sqlmap.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "sqlmapproject",
+    "homepage": "https://github.com/sqlmapproject/sqlmap",
+    "executable": "sqlmap"
+  },
+  {
+    "slug": "nikto",
+    "name": "Nikto",
+    "category": "Web Applications",
+    "description": "Nikto é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial sullo/nikto para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/sullo/nikto",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "nikto",
+      "repository_url": "https://github.com/sullo/nikto.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "sullo",
+    "homepage": "https://github.com/sullo/nikto",
+    "executable": "nikto"
+  },
+  {
+    "slug": "wapiti",
+    "name": "Wapiti",
+    "category": "Web Applications",
+    "description": "Wapiti é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial wapiti-scanner/wapiti para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/wapiti-scanner/wapiti",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "wapiti",
+      "repository_url": "https://github.com/wapiti-scanner/wapiti.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "wapiti-scanner",
+    "homepage": "https://github.com/wapiti-scanner/wapiti",
+    "executable": "wapiti"
+  },
+  {
+    "slug": "dalfox",
+    "name": "Dalfox",
+    "category": "Web Applications",
+    "description": "Dalfox é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial hahwul/dalfox para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/hahwul/dalfox",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "dalfox",
+      "repository_url": "https://github.com/hahwul/dalfox.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "hahwul",
+    "homepage": "https://github.com/hahwul/dalfox",
+    "executable": "dalfox"
+  },
+  {
+    "slug": "xsstrike",
+    "name": "XSStrike",
+    "category": "Web Applications",
+    "description": "XSStrike é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial s0md3v/XSStrike para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/s0md3v/XSStrike",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "XSStrike",
+      "repository_url": "https://github.com/s0md3v/XSStrike.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "s0md3v",
+    "homepage": "https://github.com/s0md3v/XSStrike",
+    "executable": "xsstrike"
+  },
+  {
+    "slug": "commix",
+    "name": "Commix",
+    "category": "Web Applications",
+    "description": "Commix é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial commixproject/commix para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/commixproject/commix",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "commix",
+      "repository_url": "https://github.com/commixproject/commix.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "commixproject",
+    "homepage": "https://github.com/commixproject/commix",
+    "executable": "commix"
+  },
+  {
+    "slug": "arjun",
+    "name": "Arjun",
+    "category": "Web Applications",
+    "description": "Arjun é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial s0md3v/Arjun para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/s0md3v/Arjun",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "Arjun",
+      "repository_url": "https://github.com/s0md3v/Arjun.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "s0md3v",
+    "homepage": "https://github.com/s0md3v/Arjun",
+    "executable": "arjun"
+  },
+  {
+    "slug": "paramspider",
+    "name": "ParamSpider",
+    "category": "Web Applications",
+    "description": "ParamSpider é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial devanshbatham/ParamSpider para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/devanshbatham/ParamSpider",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "ParamSpider",
+      "repository_url": "https://github.com/devanshbatham/ParamSpider.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "devanshbatham",
+    "homepage": "https://github.com/devanshbatham/ParamSpider",
+    "executable": "paramspider"
+  },
+  {
+    "slug": "dirsearch",
+    "name": "Dirsearch",
+    "category": "Web Applications",
+    "description": "Dirsearch é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial maurosoria/dirsearch para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/maurosoria/dirsearch",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "dirsearch",
+      "repository_url": "https://github.com/maurosoria/dirsearch.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "maurosoria",
+    "homepage": "https://github.com/maurosoria/dirsearch",
+    "executable": "dirsearch"
+  },
+  {
+    "slug": "ffuf",
+    "name": "Ffuf",
+    "category": "Web Applications",
+    "description": "Ffuf é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial ffuf/ffuf para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/ffuf/ffuf",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "ffuf",
+      "repository_url": "https://github.com/ffuf/ffuf.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "ffuf",
+    "homepage": "https://github.com/ffuf/ffuf",
+    "executable": "ffuf"
+  },
+  {
+    "slug": "wfuzz",
+    "name": "Wfuzz",
+    "category": "Web Applications",
+    "description": "Wfuzz é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial xmendez/wfuzz para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/xmendez/wfuzz",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "wfuzz",
+      "repository_url": "https://github.com/xmendez/wfuzz.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "xmendez",
+    "homepage": "https://github.com/xmendez/wfuzz",
+    "executable": "wfuzz"
+  },
+  {
+    "slug": "whatweb",
+    "name": "WhatWeb",
+    "category": "Web Applications",
+    "description": "WhatWeb é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial urbanadventurer/WhatWeb para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/urbanadventurer/WhatWeb",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "WhatWeb",
+      "repository_url": "https://github.com/urbanadventurer/WhatWeb.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "urbanadventurer",
+    "homepage": "https://github.com/urbanadventurer/WhatWeb",
+    "executable": "whatweb"
+  },
+  {
+    "slug": "corsy",
+    "name": "Corsy",
+    "category": "Web Applications",
+    "description": "Corsy é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial s0md3v/Corsy para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/s0md3v/Corsy",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "Corsy",
+      "repository_url": "https://github.com/s0md3v/Corsy.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "s0md3v",
+    "homepage": "https://github.com/s0md3v/Corsy",
+    "executable": "corsy"
+  },
+  {
+    "slug": "crlfuzz",
+    "name": "CRLFuzz",
+    "category": "Web Applications",
+    "description": "CRLFuzz é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial dwisiswant0/crlfuzz para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/dwisiswant0/crlfuzz",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "crlfuzz",
+      "repository_url": "https://github.com/dwisiswant0/crlfuzz.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "dwisiswant0",
+    "homepage": "https://github.com/dwisiswant0/crlfuzz",
+    "executable": "crlfuzz"
+  },
+  {
+    "slug": "jaeles",
+    "name": "Jaeles",
+    "category": "Web Applications",
+    "description": "Jaeles é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial jaeles-project/jaeles para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/jaeles-project/jaeles",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "jaeles",
+      "repository_url": "https://github.com/jaeles-project/jaeles.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "jaeles-project",
+    "homepage": "https://github.com/jaeles-project/jaeles",
+    "executable": "jaeles"
+  },
+  {
+    "slug": "ffuf-ffuf",
+    "name": "ffuf",
+    "category": "Web Applications",
+    "description": "ffuf é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial ffuf/ffuf para validação de compatibilidade e instalação no Termux.",
+    "author": "ffuf",
+    "executable": "ffuf",
+    "repository": "https://github.com/ffuf/ffuf",
+    "homepage": "https://github.com/ffuf/ffuf",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "ffuf",
+      "repository_url": "https://github.com/ffuf/ffuf.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "oj-gobuster",
+    "name": "gobuster",
+    "category": "Web Applications",
+    "description": "gobuster é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial OJ/gobuster para validação de compatibilidade e instalação no Termux.",
+    "author": "OJ",
+    "executable": "gobuster",
+    "repository": "https://github.com/OJ/gobuster",
+    "homepage": "https://github.com/OJ/gobuster",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "gobuster",
+      "repository_url": "https://github.com/OJ/gobuster.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "epi052-feroxbuster",
+    "name": "feroxbuster",
+    "category": "Web Applications",
+    "description": "feroxbuster é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial epi052/feroxbuster para validação de compatibilidade e instalação no Termux.",
+    "author": "epi052",
+    "executable": "feroxbuster",
+    "repository": "https://github.com/epi052/feroxbuster",
+    "homepage": "https://github.com/epi052/feroxbuster",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "feroxbuster",
+      "repository_url": "https://github.com/epi052/feroxbuster.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "maurosoria-dirsearch",
+    "name": "dirsearch",
+    "category": "Web Applications",
+    "description": "dirsearch é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial maurosoria/dirsearch para validação de compatibilidade e instalação no Termux.",
+    "author": "maurosoria",
+    "executable": "dirsearch",
+    "repository": "https://github.com/maurosoria/dirsearch",
+    "homepage": "https://github.com/maurosoria/dirsearch",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "dirsearch",
+      "repository_url": "https://github.com/maurosoria/dirsearch.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "kiterunner",
+    "name": "kiterunner",
+    "category": "Web Applications",
+    "description": "kiterunner é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial assetnote/kiterunner para validação de compatibilidade e instalação no Termux.",
+    "author": "assetnote",
+    "executable": "kiterunner",
+    "repository": "https://github.com/assetnote/kiterunner",
+    "homepage": "https://github.com/assetnote/kiterunner",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "kiterunner",
+      "repository_url": "https://github.com/assetnote/kiterunner.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "urbanadventurer-whatweb",
+    "name": "WhatWeb",
+    "category": "Web Applications",
+    "description": "WhatWeb é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial urbanadventurer/WhatWeb para validação de compatibilidade e instalação no Termux.",
+    "author": "urbanadventurer",
+    "executable": "whatweb",
+    "repository": "https://github.com/urbanadventurer/WhatWeb",
+    "homepage": "https://github.com/urbanadventurer/WhatWeb",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "WhatWeb",
+      "repository_url": "https://github.com/urbanadventurer/WhatWeb.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "wafw00f",
+    "name": "wafw00f",
+    "category": "Web Applications",
+    "description": "wafw00f é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial EnableSecurity/wafw00f para validação de compatibilidade e instalação no Termux.",
+    "author": "EnableSecurity",
+    "executable": "wafw00f",
+    "repository": "https://github.com/EnableSecurity/wafw00f",
+    "homepage": "https://github.com/EnableSecurity/wafw00f",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "wafw00f",
+      "repository_url": "https://github.com/EnableSecurity/wafw00f.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "sullo-nikto",
+    "name": "nikto",
+    "category": "Web Applications",
+    "description": "nikto é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial sullo/nikto para validação de compatibilidade e instalação no Termux.",
+    "author": "sullo",
+    "executable": "nikto",
+    "repository": "https://github.com/sullo/nikto",
+    "homepage": "https://github.com/sullo/nikto",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "nikto",
+      "repository_url": "https://github.com/sullo/nikto.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "wapiti-scanner-wapiti",
+    "name": "wapiti",
+    "category": "Web Applications",
+    "description": "wapiti é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial wapiti-scanner/wapiti para validação de compatibilidade e instalação no Termux.",
+    "author": "wapiti-scanner",
+    "executable": "wapiti",
+    "repository": "https://github.com/wapiti-scanner/wapiti",
+    "homepage": "https://github.com/wapiti-scanner/wapiti",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "wapiti",
+      "repository_url": "https://github.com/wapiti-scanner/wapiti.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "xsser",
+    "name": "xsser",
+    "category": "Web Applications",
+    "description": "xsser é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial epsylon/xsser para validação de compatibilidade e instalação no Termux.",
+    "author": "epsylon",
+    "executable": "xsser",
+    "repository": "https://github.com/epsylon/xsser",
+    "homepage": "https://github.com/epsylon/xsser",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "xsser",
+      "repository_url": "https://github.com/epsylon/xsser.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "hahwul-dalfox",
+    "name": "dalfox",
+    "category": "Web Applications",
+    "description": "dalfox é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial hahwul/dalfox para validação de compatibilidade e instalação no Termux.",
+    "author": "hahwul",
+    "executable": "dalfox",
+    "repository": "https://github.com/hahwul/dalfox",
+    "homepage": "https://github.com/hahwul/dalfox",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "dalfox",
+      "repository_url": "https://github.com/hahwul/dalfox.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "dwisiswant0-crlfuzz",
+    "name": "crlfuzz",
+    "category": "Web Applications",
+    "description": "crlfuzz é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial dwisiswant0/crlfuzz para validação de compatibilidade e instalação no Termux.",
+    "author": "dwisiswant0",
+    "executable": "crlfuzz",
+    "repository": "https://github.com/dwisiswant0/crlfuzz",
+    "homepage": "https://github.com/dwisiswant0/crlfuzz",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "crlfuzz",
+      "repository_url": "https://github.com/dwisiswant0/crlfuzz.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "sqlmapproject-sqlmap",
+    "name": "sqlmap",
+    "category": "Web Applications",
+    "description": "sqlmap é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial sqlmapproject/sqlmap para validação de compatibilidade e instalação no Termux.",
+    "author": "sqlmapproject",
+    "executable": "sqlmap",
+    "repository": "https://github.com/sqlmapproject/sqlmap",
+    "homepage": "https://github.com/sqlmapproject/sqlmap",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "sqlmap",
+      "repository_url": "https://github.com/sqlmapproject/sqlmap.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "s0md3v-xsstrike",
+    "name": "XSStrike",
+    "category": "Web Applications",
+    "description": "XSStrike é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial s0md3v/XSStrike para validação de compatibilidade e instalação no Termux.",
+    "author": "s0md3v",
+    "executable": "xsstrike",
+    "repository": "https://github.com/s0md3v/XSStrike",
+    "homepage": "https://github.com/s0md3v/XSStrike",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "XSStrike",
+      "repository_url": "https://github.com/s0md3v/XSStrike.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "s0md3v-arjun",
+    "name": "Arjun",
+    "category": "Web Applications",
+    "description": "Arjun é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial s0md3v/Arjun para validação de compatibilidade e instalação no Termux.",
+    "author": "s0md3v",
+    "executable": "arjun",
+    "repository": "https://github.com/s0md3v/Arjun",
+    "homepage": "https://github.com/s0md3v/Arjun",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "Arjun",
+      "repository_url": "https://github.com/s0md3v/Arjun.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "s0md3v-corsy",
+    "name": "Corsy",
+    "category": "Web Applications",
+    "description": "Corsy é uma ferramenta para análise e teste autorizado de aplicações web. Candidata do upstream oficial s0md3v/Corsy para validação de compatibilidade e instalação no Termux.",
+    "author": "s0md3v",
+    "executable": "corsy",
+    "repository": "https://github.com/s0md3v/Corsy",
+    "homepage": "https://github.com/s0md3v/Corsy",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "Corsy",
+      "repository_url": "https://github.com/s0md3v/Corsy.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  }
+]

@@ -1,0 +1,1052 @@
+[
+  {
+    "slug": "bettercap",
+    "name": "Bettercap",
+    "category": "Network Mapping Tools",
+    "description": "Bettercap é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial bettercap/bettercap para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/bettercap/bettercap",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "bettercap",
+      "repository_url": "https://github.com/bettercap/bettercap.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "bettercap",
+    "homepage": "https://github.com/bettercap/bettercap",
+    "executable": "bettercap"
+  },
+  {
+    "slug": "rustscan",
+    "name": "RustScan",
+    "category": "Network Mapping Tools",
+    "description": "RustScan é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial bee-san/RustScan para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/bee-san/RustScan",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "RustScan",
+      "repository_url": "https://github.com/bee-san/RustScan.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "bee-san",
+    "homepage": "https://github.com/bee-san/RustScan",
+    "executable": "rustscan"
+  },
+  {
+    "slug": "masscan",
+    "name": "Masscan",
+    "category": "Network Mapping Tools",
+    "description": "Masscan é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial robertdavidgraham/masscan para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/robertdavidgraham/masscan",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "masscan",
+      "repository_url": "https://github.com/robertdavidgraham/masscan.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "robertdavidgraham",
+    "homepage": "https://github.com/robertdavidgraham/masscan",
+    "executable": "masscan"
+  },
+  {
+    "slug": "zmap",
+    "name": "ZMap",
+    "category": "Network Mapping Tools",
+    "description": "ZMap é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial zmap/zmap para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/zmap/zmap",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "zmap",
+      "repository_url": "https://github.com/zmap/zmap.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "zmap",
+    "homepage": "https://github.com/zmap/zmap",
+    "executable": "zmap"
+  },
+  {
+    "slug": "hping",
+    "name": "Hping",
+    "category": "Network Mapping Tools",
+    "description": "Hping é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial antirez/hping para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/antirez/hping",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "hping",
+      "repository_url": "https://github.com/antirez/hping.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "antirez",
+    "homepage": "https://github.com/antirez/hping",
+    "executable": "hping"
+  },
+  {
+    "slug": "tcping",
+    "name": "Tcping",
+    "category": "Network Mapping Tools",
+    "description": "Tcping é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial cloverstd/tcping para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/cloverstd/tcping",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "tcping",
+      "repository_url": "https://github.com/cloverstd/tcping.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "cloverstd",
+    "homepage": "https://github.com/cloverstd/tcping",
+    "executable": "tcping"
+  },
+  {
+    "slug": "mtr",
+    "name": "MTR",
+    "category": "Network Mapping Tools",
+    "description": "MTR é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial traviscross/mtr para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/traviscross/mtr",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "mtr",
+      "repository_url": "https://github.com/traviscross/mtr.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "traviscross",
+    "homepage": "https://github.com/traviscross/mtr",
+    "executable": "mtr"
+  },
+  {
+    "slug": "socat",
+    "name": "Socat",
+    "category": "Network Mapping Tools",
+    "description": "Socat é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial 3ndG4me/socat para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/3ndG4me/socat",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "socat",
+      "repository_url": "https://github.com/3ndG4me/socat.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "3ndG4me",
+    "homepage": "https://github.com/3ndG4me/socat",
+    "executable": "socat"
+  },
+  {
+    "slug": "chisel",
+    "name": "Chisel",
+    "category": "Network Mapping Tools",
+    "description": "Chisel é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial jpillora/chisel para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/jpillora/chisel",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "chisel",
+      "repository_url": "https://github.com/jpillora/chisel.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "jpillora",
+    "homepage": "https://github.com/jpillora/chisel",
+    "executable": "chisel"
+  },
+  {
+    "slug": "ligolo-ng",
+    "name": "Ligolo-ng",
+    "category": "Network Mapping Tools",
+    "description": "Ligolo-ng é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial nicocha30/ligolo-ng para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/nicocha30/ligolo-ng",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "ligolo-ng",
+      "repository_url": "https://github.com/nicocha30/ligolo-ng.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "nicocha30",
+    "homepage": "https://github.com/nicocha30/ligolo-ng",
+    "executable": "ligolo-ng"
+  },
+  {
+    "slug": "proxychains-ng",
+    "name": "Proxychains-ng",
+    "category": "Network Mapping Tools",
+    "description": "Proxychains-ng é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial rofl0r/proxychains-ng para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/rofl0r/proxychains-ng",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "proxychains-ng",
+      "repository_url": "https://github.com/rofl0r/proxychains-ng.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "rofl0r",
+    "homepage": "https://github.com/rofl0r/proxychains-ng",
+    "executable": "proxychains-ng"
+  },
+  {
+    "slug": "dnsx",
+    "name": "Dnsx",
+    "category": "Network Mapping Tools",
+    "description": "Dnsx é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial projectdiscovery/dnsx para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/projectdiscovery/dnsx",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "dnsx",
+      "repository_url": "https://github.com/projectdiscovery/dnsx.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "projectdiscovery",
+    "homepage": "https://github.com/projectdiscovery/dnsx",
+    "executable": "dnsx"
+  },
+  {
+    "slug": "termshark",
+    "name": "Termshark",
+    "category": "Network Mapping Tools",
+    "description": "Termshark — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/gcla/termshark",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "termshark",
+      "repository_url": "https://github.com/gcla/termshark.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "gcla",
+    "homepage": "https://github.com/gcla/termshark",
+    "executable": "termshark"
+  },
+  {
+    "slug": "gping",
+    "name": "Gping",
+    "category": "Network Mapping Tools",
+    "description": "Gping — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/orf/gping",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "gping",
+      "repository_url": "https://github.com/orf/gping.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "orf",
+    "homepage": "https://github.com/orf/gping",
+    "executable": "gping"
+  },
+  {
+    "slug": "trippy",
+    "name": "Trippy",
+    "category": "Network Mapping Tools",
+    "description": "Trippy — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/fujiapple852/trippy",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "trippy",
+      "repository_url": "https://github.com/fujiapple852/trippy.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "fujiapple852",
+    "homepage": "https://github.com/fujiapple852/trippy",
+    "executable": "trippy"
+  },
+  {
+    "slug": "sniffnet",
+    "name": "Sniffnet",
+    "category": "Network Mapping Tools",
+    "description": "Sniffnet — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/GyulyVGC/sniffnet",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "sniffnet",
+      "repository_url": "https://github.com/GyulyVGC/sniffnet.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "GyulyVGC",
+    "homepage": "https://github.com/GyulyVGC/sniffnet",
+    "executable": "sniffnet"
+  },
+  {
+    "slug": "netscanner",
+    "name": "Netscanner",
+    "category": "Network Mapping Tools",
+    "description": "Netscanner — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/Chleba/netscanner",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "netscanner",
+      "repository_url": "https://github.com/Chleba/netscanner.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "Chleba",
+    "homepage": "https://github.com/Chleba/netscanner",
+    "executable": "netscanner"
+  },
+  {
+    "slug": "bettercap-bettercap",
+    "name": "bettercap",
+    "category": "Network Mapping Tools",
+    "description": "bettercap é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial bettercap/bettercap para validação de compatibilidade e instalação no Termux.",
+    "author": "bettercap",
+    "executable": "bettercap",
+    "repository": "https://github.com/bettercap/bettercap",
+    "homepage": "https://github.com/bettercap/bettercap",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "bettercap",
+      "repository_url": "https://github.com/bettercap/bettercap.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "caplets",
+    "name": "caplets",
+    "category": "Network Mapping Tools",
+    "description": "caplets é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial bettercap/caplets para validação de compatibilidade e instalação no Termux.",
+    "author": "bettercap",
+    "executable": "caplets",
+    "repository": "https://github.com/bettercap/caplets",
+    "homepage": "https://github.com/bettercap/caplets",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "caplets",
+      "repository_url": "https://github.com/bettercap/caplets.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "aircrack-ng",
+    "name": "aircrack-ng",
+    "category": "Network Mapping Tools",
+    "description": "aircrack-ng é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial aircrack-ng/aircrack-ng para validação de compatibilidade e instalação no Termux.",
+    "author": "aircrack-ng",
+    "executable": "aircrack-ng",
+    "repository": "https://github.com/aircrack-ng/aircrack-ng",
+    "homepage": "https://github.com/aircrack-ng/aircrack-ng",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "aircrack-ng",
+      "repository_url": "https://github.com/aircrack-ng/aircrack-ng.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "kismet",
+    "name": "kismet",
+    "category": "Network Mapping Tools",
+    "description": "kismet é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial kismetwireless/kismet para validação de compatibilidade e instalação no Termux.",
+    "author": "kismetwireless",
+    "executable": "kismet",
+    "repository": "https://github.com/kismetwireless/kismet",
+    "homepage": "https://github.com/kismetwireless/kismet",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "kismet",
+      "repository_url": "https://github.com/kismetwireless/kismet.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "wireshark",
+    "name": "wireshark",
+    "category": "Network Mapping Tools",
+    "description": "wireshark é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial wireshark/wireshark para validação de compatibilidade e instalação no Termux.",
+    "author": "wireshark",
+    "executable": "wireshark",
+    "repository": "https://github.com/wireshark/wireshark",
+    "homepage": "https://github.com/wireshark/wireshark",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "wireshark",
+      "repository_url": "https://github.com/wireshark/wireshark.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "zeek",
+    "name": "zeek",
+    "category": "Network Mapping Tools",
+    "description": "zeek é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial zeek/zeek para validação de compatibilidade e instalação no Termux.",
+    "author": "zeek",
+    "executable": "zeek",
+    "repository": "https://github.com/zeek/zeek",
+    "homepage": "https://github.com/zeek/zeek",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "zeek",
+      "repository_url": "https://github.com/zeek/zeek.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "scapy",
+    "name": "scapy",
+    "category": "Network Mapping Tools",
+    "description": "scapy é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial secdev/scapy para validação de compatibilidade e instalação no Termux.",
+    "author": "secdev",
+    "executable": "scapy",
+    "repository": "https://github.com/secdev/scapy",
+    "homepage": "https://github.com/secdev/scapy",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "scapy",
+      "repository_url": "https://github.com/secdev/scapy.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "ngrep",
+    "name": "ngrep",
+    "category": "Network Mapping Tools",
+    "description": "ngrep é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial jpr5/ngrep para validação de compatibilidade e instalação no Termux.",
+    "author": "jpr5",
+    "executable": "ngrep",
+    "repository": "https://github.com/jpr5/ngrep",
+    "homepage": "https://github.com/jpr5/ngrep",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "ngrep",
+      "repository_url": "https://github.com/jpr5/ngrep.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "cloudflared",
+    "name": "cloudflared",
+    "category": "Network Mapping Tools",
+    "description": "cloudflared é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial cloudflare/cloudflared para validação de compatibilidade e instalação no Termux.",
+    "author": "cloudflare",
+    "executable": "cloudflared",
+    "repository": "https://github.com/cloudflare/cloudflared",
+    "homepage": "https://github.com/cloudflare/cloudflared",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "cloudflared",
+      "repository_url": "https://github.com/cloudflare/cloudflared.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "tailscale",
+    "name": "tailscale",
+    "category": "Network Mapping Tools",
+    "description": "tailscale é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial tailscale/tailscale para validação de compatibilidade e instalação no Termux.",
+    "author": "tailscale",
+    "executable": "tailscale",
+    "repository": "https://github.com/tailscale/tailscale",
+    "homepage": "https://github.com/tailscale/tailscale",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "tailscale",
+      "repository_url": "https://github.com/tailscale/tailscale.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "zerotierone",
+    "name": "ZeroTierOne",
+    "category": "Network Mapping Tools",
+    "description": "ZeroTierOne é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial zerotier/ZeroTierOne para validação de compatibilidade e instalação no Termux.",
+    "author": "zerotier",
+    "executable": "zerotierone",
+    "repository": "https://github.com/zerotier/ZeroTierOne",
+    "homepage": "https://github.com/zerotier/ZeroTierOne",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "ZeroTierOne",
+      "repository_url": "https://github.com/zerotier/ZeroTierOne.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "wireguard-tools",
+    "name": "wireguard-tools",
+    "category": "Network Mapping Tools",
+    "description": "wireguard-tools é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial wireguard/wireguard-tools para validação de compatibilidade e instalação no Termux.",
+    "author": "wireguard",
+    "executable": "wireguard-tools",
+    "repository": "https://github.com/wireguard/wireguard-tools",
+    "homepage": "https://github.com/wireguard/wireguard-tools",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "wireguard-tools",
+      "repository_url": "https://github.com/wireguard/wireguard-tools.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "openvpn",
+    "name": "openvpn",
+    "category": "Network Mapping Tools",
+    "description": "openvpn é uma ferramenta para diagnóstico, observação ou análise de redes. Candidata do upstream oficial OpenVPN/openvpn para validação de compatibilidade e instalação no Termux.",
+    "author": "OpenVPN",
+    "executable": "openvpn",
+    "repository": "https://github.com/OpenVPN/openvpn",
+    "homepage": "https://github.com/OpenVPN/openvpn",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "openvpn",
+      "repository_url": "https://github.com/OpenVPN/openvpn.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  }
+]

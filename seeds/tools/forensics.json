@@ -1,0 +1,1472 @@
+[
+  {
+    "slug": "yara",
+    "name": "YARA",
+    "category": "Forensic Tools",
+    "description": "YARA é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial VirusTotal/yara para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/VirusTotal/yara",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "yara",
+      "repository_url": "https://github.com/VirusTotal/yara.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "VirusTotal",
+    "homepage": "https://github.com/VirusTotal/yara",
+    "executable": "yara"
+  },
+  {
+    "slug": "exiftool",
+    "name": "ExifTool",
+    "category": "Forensic Tools",
+    "description": "ExifTool é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial exiftool/exiftool para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/exiftool/exiftool",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "exiftool",
+      "repository_url": "https://github.com/exiftool/exiftool.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "exiftool",
+    "homepage": "https://github.com/exiftool/exiftool",
+    "executable": "exiftool"
+  },
+  {
+    "slug": "binwalk",
+    "name": "Binwalk",
+    "category": "Forensic Tools",
+    "description": "Binwalk é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial ReFirmLabs/binwalk para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/ReFirmLabs/binwalk",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "binwalk",
+      "repository_url": "https://github.com/ReFirmLabs/binwalk.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "ReFirmLabs",
+    "homepage": "https://github.com/ReFirmLabs/binwalk",
+    "executable": "binwalk"
+  },
+  {
+    "slug": "foremost",
+    "name": "Foremost",
+    "category": "Forensic Tools",
+    "description": "Foremost é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial korczis/foremost para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/korczis/foremost",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "foremost",
+      "repository_url": "https://github.com/korczis/foremost.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "korczis",
+    "homepage": "https://github.com/korczis/foremost",
+    "executable": "foremost"
+  },
+  {
+    "slug": "volatility3",
+    "name": "Volatility3",
+    "category": "Forensic Tools",
+    "description": "Volatility3 é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial volatilityfoundation/volatility3 para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/volatilityfoundation/volatility3",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "volatility3",
+      "repository_url": "https://github.com/volatilityfoundation/volatility3.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "volatilityfoundation",
+    "homepage": "https://github.com/volatilityfoundation/volatility3",
+    "executable": "volatility3"
+  },
+  {
+    "slug": "exiflooter",
+    "name": "ExifLooter",
+    "category": "Forensic Tools",
+    "description": "ExifLooter é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial aydinnyunus/exifLooter para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/aydinnyunus/exifLooter",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "exifLooter",
+      "repository_url": "https://github.com/aydinnyunus/exifLooter.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "aydinnyunus",
+    "homepage": "https://github.com/aydinnyunus/exifLooter",
+    "executable": "exiflooter"
+  },
+  {
+    "slug": "pdf-parser",
+    "name": "PDF-Parser",
+    "category": "Forensic Tools",
+    "description": "PDF-Parser é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial DidierStevens/DidierStevensSuite para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/DidierStevens/DidierStevensSuite",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "DidierStevensSuite",
+      "repository_url": "https://github.com/DidierStevens/DidierStevensSuite.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "DidierStevens",
+    "homepage": "https://github.com/DidierStevens/DidierStevensSuite",
+    "executable": "pdf-parser"
+  },
+  {
+    "slug": "peepdf",
+    "name": "Peepdf",
+    "category": "Forensic Tools",
+    "description": "Peepdf é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial jesparza/peepdf para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/jesparza/peepdf",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "peepdf",
+      "repository_url": "https://github.com/jesparza/peepdf.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "jesparza",
+    "homepage": "https://github.com/jesparza/peepdf",
+    "executable": "peepdf"
+  },
+  {
+    "slug": "bulk-extractor",
+    "name": "Bulk-Extractor",
+    "category": "Forensic Tools",
+    "description": "Bulk-Extractor é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial simsong/bulk_extractor para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/simsong/bulk_extractor",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "bulk_extractor",
+      "repository_url": "https://github.com/simsong/bulk_extractor.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "simsong",
+    "homepage": "https://github.com/simsong/bulk_extractor",
+    "executable": "bulk-extractor"
+  },
+  {
+    "slug": "scalpel",
+    "name": "Scalpel",
+    "category": "Forensic Tools",
+    "description": "Scalpel é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial sleuthkit/scalpel para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/sleuthkit/scalpel",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "scalpel",
+      "repository_url": "https://github.com/sleuthkit/scalpel.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "sleuthkit",
+    "homepage": "https://github.com/sleuthkit/scalpel",
+    "executable": "scalpel"
+  },
+  {
+    "slug": "radare2",
+    "name": "Radare2",
+    "category": "Forensic Tools",
+    "description": "Radare2 é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial radareorg/radare2 para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/radareorg/radare2",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "radare2",
+      "repository_url": "https://github.com/radareorg/radare2.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "radareorg",
+    "homepage": "https://github.com/radareorg/radare2",
+    "executable": "radare2"
+  },
+  {
+    "slug": "rizin",
+    "name": "Rizin",
+    "category": "Forensic Tools",
+    "description": "Rizin é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial rizinorg/rizin para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/rizinorg/rizin",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "rizin",
+      "repository_url": "https://github.com/rizinorg/rizin.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "rizinorg",
+    "homepage": "https://github.com/rizinorg/rizin",
+    "executable": "rizin"
+  },
+  {
+    "slug": "cutter",
+    "name": "Cutter",
+    "category": "Forensic Tools",
+    "description": "Cutter é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial rizinorg/cutter para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/rizinorg/cutter",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "cutter",
+      "repository_url": "https://github.com/rizinorg/cutter.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "rizinorg",
+    "homepage": "https://github.com/rizinorg/cutter",
+    "executable": "cutter"
+  },
+  {
+    "slug": "sleuthkit",
+    "name": "The Sleuth Kit",
+    "category": "Forensic Tools",
+    "description": "The Sleuth Kit — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/sleuthkit/sleuthkit",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "sleuthkit",
+      "repository_url": "https://github.com/sleuthkit/sleuthkit.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "sleuthkit",
+    "homepage": "https://github.com/sleuthkit/sleuthkit",
+    "executable": "sleuthkit"
+  },
+  {
+    "slug": "plaso",
+    "name": "Plaso",
+    "category": "Forensic Tools",
+    "description": "Plaso — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/log2timeline/plaso",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "plaso",
+      "repository_url": "https://github.com/log2timeline/plaso.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "log2timeline",
+    "homepage": "https://github.com/log2timeline/plaso",
+    "executable": "plaso"
+  },
+  {
+    "slug": "capa",
+    "name": "Capa",
+    "category": "Forensic Tools",
+    "description": "Capa — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/mandiant/capa",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "capa",
+      "repository_url": "https://github.com/mandiant/capa.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "mandiant",
+    "homepage": "https://github.com/mandiant/capa",
+    "executable": "capa"
+  },
+  {
+    "slug": "floss",
+    "name": "FLOSS",
+    "category": "Forensic Tools",
+    "description": "FLOSS — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/mandiant/flare-floss",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "flare-floss",
+      "repository_url": "https://github.com/mandiant/flare-floss.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "mandiant",
+    "homepage": "https://github.com/mandiant/flare-floss",
+    "executable": "floss"
+  },
+  {
+    "slug": "oletools",
+    "name": "Oletools",
+    "category": "Forensic Tools",
+    "description": "Oletools — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/decalage2/oletools",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "oletools",
+      "repository_url": "https://github.com/decalage2/oletools.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "decalage2",
+    "homepage": "https://github.com/decalage2/oletools",
+    "executable": "oletools"
+  },
+  {
+    "slug": "yara-x",
+    "name": "YARA-X",
+    "category": "Forensic Tools",
+    "description": "YARA-X — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/VirusTotal/yara-x",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "yara-x",
+      "repository_url": "https://github.com/VirusTotal/yara-x.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "VirusTotal",
+    "homepage": "https://github.com/VirusTotal/yara-x",
+    "executable": "yara-x"
+  },
+  {
+    "slug": "chainsaw",
+    "name": "Chainsaw",
+    "category": "Forensic Tools",
+    "description": "Chainsaw — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/WithSecureLabs/chainsaw",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "chainsaw",
+      "repository_url": "https://github.com/WithSecureLabs/chainsaw.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "WithSecureLabs",
+    "homepage": "https://github.com/WithSecureLabs/chainsaw",
+    "executable": "chainsaw"
+  },
+  {
+    "slug": "hayabusa",
+    "name": "Hayabusa",
+    "category": "Forensic Tools",
+    "description": "Hayabusa — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/Yamato-Security/hayabusa",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "hayabusa",
+      "repository_url": "https://github.com/Yamato-Security/hayabusa.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "Yamato-Security",
+    "homepage": "https://github.com/Yamato-Security/hayabusa",
+    "executable": "hayabusa"
+  },
+  {
+    "slug": "zircolite",
+    "name": "Zircolite",
+    "category": "Forensic Tools",
+    "description": "Zircolite — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/wavestone-cdt/zircolite",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "zircolite",
+      "repository_url": "https://github.com/wavestone-cdt/zircolite.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "wavestone-cdt",
+    "homepage": "https://github.com/wavestone-cdt/zircolite",
+    "executable": "zircolite"
+  },
+  {
+    "slug": "evtx",
+    "name": "EVTX",
+    "category": "Forensic Tools",
+    "description": "EVTX — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/omerbenamram/evtx",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "evtx",
+      "repository_url": "https://github.com/omerbenamram/evtx.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "omerbenamram",
+    "homepage": "https://github.com/omerbenamram/evtx",
+    "executable": "evtx"
+  },
+  {
+    "slug": "regipy",
+    "name": "Regipy",
+    "category": "Forensic Tools",
+    "description": "Regipy — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/mkorman90/regipy",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "regipy",
+      "repository_url": "https://github.com/mkorman90/regipy.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "mkorman90",
+    "homepage": "https://github.com/mkorman90/regipy",
+    "executable": "regipy"
+  },
+  {
+    "slug": "virustotal-yara",
+    "name": "yara",
+    "category": "Forensic Tools",
+    "description": "yara é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial VirusTotal/yara para validação de compatibilidade e instalação no Termux.",
+    "author": "VirusTotal",
+    "executable": "yara",
+    "repository": "https://github.com/VirusTotal/yara",
+    "homepage": "https://github.com/VirusTotal/yara",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "yara",
+      "repository_url": "https://github.com/VirusTotal/yara.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "virustotal-yara-x",
+    "name": "yara-x",
+    "category": "Forensic Tools",
+    "description": "yara-x é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial VirusTotal/yara-x para validação de compatibilidade e instalação no Termux.",
+    "author": "VirusTotal",
+    "executable": "yara-x",
+    "repository": "https://github.com/VirusTotal/yara-x",
+    "homepage": "https://github.com/VirusTotal/yara-x",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "yara-x",
+      "repository_url": "https://github.com/VirusTotal/yara-x.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "mandiant-capa",
+    "name": "capa",
+    "category": "Forensic Tools",
+    "description": "capa é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial mandiant/capa para validação de compatibilidade e instalação no Termux.",
+    "author": "mandiant",
+    "executable": "capa",
+    "repository": "https://github.com/mandiant/capa",
+    "homepage": "https://github.com/mandiant/capa",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "capa",
+      "repository_url": "https://github.com/mandiant/capa.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "flare-floss",
+    "name": "flare-floss",
+    "category": "Forensic Tools",
+    "description": "flare-floss é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial mandiant/flare-floss para validação de compatibilidade e instalação no Termux.",
+    "author": "mandiant",
+    "executable": "flare-floss",
+    "repository": "https://github.com/mandiant/flare-floss",
+    "homepage": "https://github.com/mandiant/flare-floss",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "flare-floss",
+      "repository_url": "https://github.com/mandiant/flare-floss.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "volatilityfoundation-volatility3",
+    "name": "volatility3",
+    "category": "Forensic Tools",
+    "description": "volatility3 é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial volatilityfoundation/volatility3 para validação de compatibilidade e instalação no Termux.",
+    "author": "volatilityfoundation",
+    "executable": "volatility3",
+    "repository": "https://github.com/volatilityfoundation/volatility3",
+    "homepage": "https://github.com/volatilityfoundation/volatility3",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "volatility3",
+      "repository_url": "https://github.com/volatilityfoundation/volatility3.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "volatility",
+    "name": "volatility",
+    "category": "Forensic Tools",
+    "description": "volatility é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial volatilityfoundation/volatility para validação de compatibilidade e instalação no Termux.",
+    "author": "volatilityfoundation",
+    "executable": "volatility",
+    "repository": "https://github.com/volatilityfoundation/volatility",
+    "homepage": "https://github.com/volatilityfoundation/volatility",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "volatility",
+      "repository_url": "https://github.com/volatilityfoundation/volatility.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "sleuthkit-sleuthkit",
+    "name": "sleuthkit",
+    "category": "Forensic Tools",
+    "description": "sleuthkit é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial sleuthkit/sleuthkit para validação de compatibilidade e instalação no Termux.",
+    "author": "sleuthkit",
+    "executable": "sleuthkit",
+    "repository": "https://github.com/sleuthkit/sleuthkit",
+    "homepage": "https://github.com/sleuthkit/sleuthkit",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "sleuthkit",
+      "repository_url": "https://github.com/sleuthkit/sleuthkit.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "autopsy",
+    "name": "autopsy",
+    "category": "Forensic Tools",
+    "description": "autopsy é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial sleuthkit/autopsy para validação de compatibilidade e instalação no Termux.",
+    "author": "sleuthkit",
+    "executable": "autopsy",
+    "repository": "https://github.com/sleuthkit/autopsy",
+    "homepage": "https://github.com/sleuthkit/autopsy",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "autopsy",
+      "repository_url": "https://github.com/sleuthkit/autopsy.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "log2timeline-plaso",
+    "name": "plaso",
+    "category": "Forensic Tools",
+    "description": "plaso é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial log2timeline/plaso para validação de compatibilidade e instalação no Termux.",
+    "author": "log2timeline",
+    "executable": "plaso",
+    "repository": "https://github.com/log2timeline/plaso",
+    "homepage": "https://github.com/log2timeline/plaso",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "plaso",
+      "repository_url": "https://github.com/log2timeline/plaso.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "withsecurelabs-chainsaw",
+    "name": "chainsaw",
+    "category": "Forensic Tools",
+    "description": "chainsaw é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial WithSecureLabs/chainsaw para validação de compatibilidade e instalação no Termux.",
+    "author": "WithSecureLabs",
+    "executable": "chainsaw",
+    "repository": "https://github.com/WithSecureLabs/chainsaw",
+    "homepage": "https://github.com/WithSecureLabs/chainsaw",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "chainsaw",
+      "repository_url": "https://github.com/WithSecureLabs/chainsaw.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "yamato-security-hayabusa",
+    "name": "hayabusa",
+    "category": "Forensic Tools",
+    "description": "hayabusa é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial Yamato-Security/hayabusa para validação de compatibilidade e instalação no Termux.",
+    "author": "Yamato-Security",
+    "executable": "hayabusa",
+    "repository": "https://github.com/Yamato-Security/hayabusa",
+    "homepage": "https://github.com/Yamato-Security/hayabusa",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "hayabusa",
+      "repository_url": "https://github.com/Yamato-Security/hayabusa.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "refirmlabs-binwalk",
+    "name": "binwalk",
+    "category": "Forensic Tools",
+    "description": "binwalk é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial ReFirmLabs/binwalk para validação de compatibilidade e instalação no Termux.",
+    "author": "ReFirmLabs",
+    "executable": "binwalk",
+    "repository": "https://github.com/ReFirmLabs/binwalk",
+    "homepage": "https://github.com/ReFirmLabs/binwalk",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "binwalk",
+      "repository_url": "https://github.com/ReFirmLabs/binwalk.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "binwalk3",
+    "name": "binwalk3",
+    "category": "Forensic Tools",
+    "description": "binwalk3 é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial ReFirmLabs/binwalk3 para validação de compatibilidade e instalação no Termux.",
+    "author": "ReFirmLabs",
+    "executable": "binwalk3",
+    "repository": "https://github.com/ReFirmLabs/binwalk3",
+    "homepage": "https://github.com/ReFirmLabs/binwalk3",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "binwalk3",
+      "repository_url": "https://github.com/ReFirmLabs/binwalk3.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "ghidra",
+    "name": "ghidra",
+    "category": "Forensic Tools",
+    "description": "ghidra é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial NationalSecurityAgency/ghidra para validação de compatibilidade e instalação no Termux.",
+    "author": "NationalSecurityAgency",
+    "executable": "ghidra",
+    "repository": "https://github.com/NationalSecurityAgency/ghidra",
+    "homepage": "https://github.com/NationalSecurityAgency/ghidra",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "ghidra",
+      "repository_url": "https://github.com/NationalSecurityAgency/ghidra.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "radareorg-radare2",
+    "name": "radare2",
+    "category": "Forensic Tools",
+    "description": "radare2 é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial radareorg/radare2 para validação de compatibilidade e instalação no Termux.",
+    "author": "radareorg",
+    "executable": "radare2",
+    "repository": "https://github.com/radareorg/radare2",
+    "homepage": "https://github.com/radareorg/radare2",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "radare2",
+      "repository_url": "https://github.com/radareorg/radare2.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "rizinorg-rizin",
+    "name": "rizin",
+    "category": "Forensic Tools",
+    "description": "rizin é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial rizinorg/rizin para validação de compatibilidade e instalação no Termux.",
+    "author": "rizinorg",
+    "executable": "rizin",
+    "repository": "https://github.com/rizinorg/rizin",
+    "homepage": "https://github.com/rizinorg/rizin",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "rizin",
+      "repository_url": "https://github.com/rizinorg/rizin.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "rizinorg-cutter",
+    "name": "cutter",
+    "category": "Forensic Tools",
+    "description": "cutter é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial rizinorg/cutter para validação de compatibilidade e instalação no Termux.",
+    "author": "rizinorg",
+    "executable": "cutter",
+    "repository": "https://github.com/rizinorg/cutter",
+    "homepage": "https://github.com/rizinorg/cutter",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "cutter",
+      "repository_url": "https://github.com/rizinorg/cutter.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "imhex",
+    "name": "ImHex",
+    "category": "Forensic Tools",
+    "description": "ImHex é uma ferramenta de análise forense, resposta a incidentes ou engenharia reversa. Candidata do upstream oficial WerWolv/ImHex para validação de compatibilidade e instalação no Termux.",
+    "author": "WerWolv",
+    "executable": "imhex",
+    "repository": "https://github.com/WerWolv/ImHex",
+    "homepage": "https://github.com/WerWolv/ImHex",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "ImHex",
+      "repository_url": "https://github.com/WerWolv/ImHex.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  }
+]

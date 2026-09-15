@@ -1,0 +1,1017 @@
+[
+  {
+    "slug": "theharvester",
+    "name": "theHarvester",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "theHarvester é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial laramies/theHarvester para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/laramies/theHarvester",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "theHarvester",
+      "repository_url": "https://github.com/laramies/theHarvester.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "laramies",
+    "homepage": "https://github.com/laramies/theHarvester",
+    "executable": "theharvester"
+  },
+  {
+    "slug": "sherlock",
+    "name": "Sherlock",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "Sherlock é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial sherlock-project/sherlock para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/sherlock-project/sherlock",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "sherlock",
+      "repository_url": "https://github.com/sherlock-project/sherlock.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "sherlock-project",
+    "homepage": "https://github.com/sherlock-project/sherlock",
+    "executable": "sherlock"
+  },
+  {
+    "slug": "maigret",
+    "name": "Maigret",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "Maigret é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial soxoj/maigret para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/soxoj/maigret",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "maigret",
+      "repository_url": "https://github.com/soxoj/maigret.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "soxoj",
+    "homepage": "https://github.com/soxoj/maigret",
+    "executable": "maigret"
+  },
+  {
+    "slug": "spiderfoot",
+    "name": "SpiderFoot",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "SpiderFoot é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial smicallef/spiderfoot para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/smicallef/spiderfoot",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "spiderfoot",
+      "repository_url": "https://github.com/smicallef/spiderfoot.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "smicallef",
+    "homepage": "https://github.com/smicallef/spiderfoot",
+    "executable": "spiderfoot"
+  },
+  {
+    "slug": "recon-ng",
+    "name": "Recon-ng",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "Recon-ng é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial lanmaster53/recon-ng para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/lanmaster53/recon-ng",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "recon-ng",
+      "repository_url": "https://github.com/lanmaster53/recon-ng.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "lanmaster53",
+    "homepage": "https://github.com/lanmaster53/recon-ng",
+    "executable": "recon-ng"
+  },
+  {
+    "slug": "osrframework",
+    "name": "OSRFramework",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "OSRFramework é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial i3visio/osrframework para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/i3visio/osrframework",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "osrframework",
+      "repository_url": "https://github.com/i3visio/osrframework.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "i3visio",
+    "homepage": "https://github.com/i3visio/osrframework",
+    "executable": "osrframework"
+  },
+  {
+    "slug": "photon",
+    "name": "Photon",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "Photon é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial s0md3v/Photon para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/s0md3v/Photon",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "Photon",
+      "repository_url": "https://github.com/s0md3v/Photon.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "s0md3v",
+    "homepage": "https://github.com/s0md3v/Photon",
+    "executable": "photon"
+  },
+  {
+    "slug": "infoga",
+    "name": "Infoga",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "Infoga é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial m4ll0k/Infoga para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/m4ll0k/Infoga",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "Infoga",
+      "repository_url": "https://github.com/m4ll0k/Infoga.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "m4ll0k",
+    "homepage": "https://github.com/m4ll0k/Infoga",
+    "executable": "infoga"
+  },
+  {
+    "slug": "ghunt",
+    "name": "GHunt",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "GHunt é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial mxrch/GHunt para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/mxrch/GHunt",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "GHunt",
+      "repository_url": "https://github.com/mxrch/GHunt.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "mxrch",
+    "homepage": "https://github.com/mxrch/GHunt",
+    "executable": "ghunt"
+  },
+  {
+    "slug": "holehe",
+    "name": "Holehe",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "Holehe é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial megadose/holehe para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/megadose/holehe",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "holehe",
+      "repository_url": "https://github.com/megadose/holehe.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "megadose",
+    "homepage": "https://github.com/megadose/holehe",
+    "executable": "holehe"
+  },
+  {
+    "slug": "social-analyzer",
+    "name": "Social-Analyzer",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "Social-Analyzer é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial qeeqbox/social-analyzer para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/qeeqbox/social-analyzer",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "social-analyzer",
+      "repository_url": "https://github.com/qeeqbox/social-analyzer.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "qeeqbox",
+    "homepage": "https://github.com/qeeqbox/social-analyzer",
+    "executable": "social-analyzer"
+  },
+  {
+    "slug": "trufflehog",
+    "name": "TruffleHog",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "TruffleHog é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial trufflesecurity/trufflehog para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/trufflesecurity/trufflehog",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "trufflehog",
+      "repository_url": "https://github.com/trufflesecurity/trufflehog.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "trufflesecurity",
+    "homepage": "https://github.com/trufflesecurity/trufflehog",
+    "executable": "trufflehog"
+  },
+  {
+    "slug": "gitleaks",
+    "name": "GitLeaks",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "GitLeaks é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial gitleaks/gitleaks para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/gitleaks/gitleaks",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "gitleaks",
+      "repository_url": "https://github.com/gitleaks/gitleaks.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "gitleaks",
+    "homepage": "https://github.com/gitleaks/gitleaks",
+    "executable": "gitleaks"
+  },
+  {
+    "slug": "sn0int",
+    "name": "Sn0int",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "Sn0int — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/kpcyrd/sn0int",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "sn0int",
+      "repository_url": "https://github.com/kpcyrd/sn0int.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "kpcyrd",
+    "homepage": "https://github.com/kpcyrd/sn0int",
+    "executable": "sn0int"
+  },
+  {
+    "slug": "mosint",
+    "name": "Mosint",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "Mosint — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/alpkeskin/mosint",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "mosint",
+      "repository_url": "https://github.com/alpkeskin/mosint.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "alpkeskin",
+    "homepage": "https://github.com/alpkeskin/mosint",
+    "executable": "mosint"
+  },
+  {
+    "slug": "metagoofil",
+    "name": "Metagoofil",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "Metagoofil — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/opsdisk/metagoofil",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "metagoofil",
+      "repository_url": "https://github.com/opsdisk/metagoofil.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "opsdisk",
+    "homepage": "https://github.com/opsdisk/metagoofil",
+    "executable": "metagoofil"
+  },
+  {
+    "slug": "toutatis",
+    "name": "Toutatis",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "Toutatis — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/megadose/toutatis",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "toutatis",
+      "repository_url": "https://github.com/megadose/toutatis.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "megadose",
+    "homepage": "https://github.com/megadose/toutatis",
+    "executable": "toutatis"
+  },
+  {
+    "slug": "sherlock-project-sherlock",
+    "name": "sherlock",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "sherlock é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial sherlock-project/sherlock para validação de compatibilidade e instalação no Termux.",
+    "author": "sherlock-project",
+    "executable": "sherlock",
+    "repository": "https://github.com/sherlock-project/sherlock",
+    "homepage": "https://github.com/sherlock-project/sherlock",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "sherlock",
+      "repository_url": "https://github.com/sherlock-project/sherlock.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "soxoj-maigret",
+    "name": "maigret",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "maigret é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial soxoj/maigret para validação de compatibilidade e instalação no Termux.",
+    "author": "soxoj",
+    "executable": "maigret",
+    "repository": "https://github.com/soxoj/maigret",
+    "homepage": "https://github.com/soxoj/maigret",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "maigret",
+      "repository_url": "https://github.com/soxoj/maigret.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "megadose-holehe",
+    "name": "holehe",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "holehe é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial megadose/holehe para validação de compatibilidade e instalação no Termux.",
+    "author": "megadose",
+    "executable": "holehe",
+    "repository": "https://github.com/megadose/holehe",
+    "homepage": "https://github.com/megadose/holehe",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "holehe",
+      "repository_url": "https://github.com/megadose/holehe.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "laramies-theharvester",
+    "name": "theHarvester",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "theHarvester é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial laramies/theHarvester para validação de compatibilidade e instalação no Termux.",
+    "author": "laramies",
+    "executable": "theharvester",
+    "repository": "https://github.com/laramies/theHarvester",
+    "homepage": "https://github.com/laramies/theHarvester",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "theHarvester",
+      "repository_url": "https://github.com/laramies/theHarvester.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "smicallef-spiderfoot",
+    "name": "spiderfoot",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "spiderfoot é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial smicallef/spiderfoot para validação de compatibilidade e instalação no Termux.",
+    "author": "smicallef",
+    "executable": "spiderfoot",
+    "repository": "https://github.com/smicallef/spiderfoot",
+    "homepage": "https://github.com/smicallef/spiderfoot",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "spiderfoot",
+      "repository_url": "https://github.com/smicallef/spiderfoot.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "qeeqbox-social-analyzer",
+    "name": "social-analyzer",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "social-analyzer é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial qeeqbox/social-analyzer para validação de compatibilidade e instalação no Termux.",
+    "author": "qeeqbox",
+    "executable": "social-analyzer",
+    "repository": "https://github.com/qeeqbox/social-analyzer",
+    "homepage": "https://github.com/qeeqbox/social-analyzer",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "social-analyzer",
+      "repository_url": "https://github.com/qeeqbox/social-analyzer.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "mxrch-ghunt",
+    "name": "GHunt",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "GHunt é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial mxrch/GHunt para validação de compatibilidade e instalação no Termux.",
+    "author": "mxrch",
+    "executable": "ghunt",
+    "repository": "https://github.com/mxrch/GHunt",
+    "homepage": "https://github.com/mxrch/GHunt",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "GHunt",
+      "repository_url": "https://github.com/mxrch/GHunt.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "lanmaster53-recon-ng",
+    "name": "recon-ng",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "recon-ng é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial lanmaster53/recon-ng para validação de compatibilidade e instalação no Termux.",
+    "author": "lanmaster53",
+    "executable": "recon-ng",
+    "repository": "https://github.com/lanmaster53/recon-ng",
+    "homepage": "https://github.com/lanmaster53/recon-ng",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "recon-ng",
+      "repository_url": "https://github.com/lanmaster53/recon-ng.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "recon-ng-marketplace",
+    "name": "recon-ng-marketplace",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "recon-ng-marketplace é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial lanmaster53/recon-ng-marketplace para validação de compatibilidade e instalação no Termux.",
+    "author": "lanmaster53",
+    "executable": "recon-ng-marketplace",
+    "repository": "https://github.com/lanmaster53/recon-ng-marketplace",
+    "homepage": "https://github.com/lanmaster53/recon-ng-marketplace",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "recon-ng-marketplace",
+      "repository_url": "https://github.com/lanmaster53/recon-ng-marketplace.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "phoneinfoga",
+    "name": "phoneinfoga",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "phoneinfoga é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial phoneinfoga/phoneinfoga para validação de compatibilidade e instalação no Termux.",
+    "author": "phoneinfoga",
+    "executable": "phoneinfoga",
+    "repository": "https://github.com/phoneinfoga/phoneinfoga",
+    "homepage": "https://github.com/phoneinfoga/phoneinfoga",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "phoneinfoga",
+      "repository_url": "https://github.com/phoneinfoga/phoneinfoga.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "s0md3v-photon",
+    "name": "Photon",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "Photon é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial s0md3v/Photon para validação de compatibilidade e instalação no Termux.",
+    "author": "s0md3v",
+    "executable": "photon",
+    "repository": "https://github.com/s0md3v/Photon",
+    "homepage": "https://github.com/s0md3v/Photon",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "Photon",
+      "repository_url": "https://github.com/s0md3v/Photon.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "social-engineer-toolkit",
+    "name": "social-engineer-toolkit",
+    "category": "OSINT (Open Source Intelligence)",
+    "description": "social-engineer-toolkit é uma ferramenta de OSINT e coleta de informações a partir de fontes abertas. Candidata do upstream oficial trustedsec/social-engineer-toolkit para validação de compatibilidade e instalação no Termux.",
+    "author": "trustedsec",
+    "executable": "social-engineer-toolkit",
+    "repository": "https://github.com/trustedsec/social-engineer-toolkit",
+    "homepage": "https://github.com/trustedsec/social-engineer-toolkit",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "social-engineer-toolkit",
+      "repository_url": "https://github.com/trustedsec/social-engineer-toolkit.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  }
+]

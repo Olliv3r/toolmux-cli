@@ -1,0 +1,2172 @@
+[
+  {
+    "slug": "tmux",
+    "name": "Tmux",
+    "category": "Extra",
+    "description": "Tmux é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial tmux/tmux para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/tmux/tmux",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "tmux",
+      "repository_url": "https://github.com/tmux/tmux.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "tmux",
+    "homepage": "https://github.com/tmux/tmux",
+    "executable": "tmux"
+  },
+  {
+    "slug": "neovim",
+    "name": "Neovim",
+    "category": "Extra",
+    "description": "Neovim é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial neovim/neovim para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/neovim/neovim",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "neovim",
+      "repository_url": "https://github.com/neovim/neovim.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "neovim",
+    "homepage": "https://github.com/neovim/neovim",
+    "executable": "neovim"
+  },
+  {
+    "slug": "micro",
+    "name": "Micro",
+    "category": "Extra",
+    "description": "Micro é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial zyedidia/micro para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/zyedidia/micro",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "micro",
+      "repository_url": "https://github.com/zyedidia/micro.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "zyedidia",
+    "homepage": "https://github.com/zyedidia/micro",
+    "executable": "micro"
+  },
+  {
+    "slug": "lazygit",
+    "name": "Lazygit",
+    "category": "Extra",
+    "description": "Lazygit é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial jesseduffield/lazygit para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/jesseduffield/lazygit",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "lazygit",
+      "repository_url": "https://github.com/jesseduffield/lazygit.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "jesseduffield",
+    "homepage": "https://github.com/jesseduffield/lazygit",
+    "executable": "lazygit"
+  },
+  {
+    "slug": "lazydocker",
+    "name": "Lazydocker",
+    "category": "Extra",
+    "description": "Lazydocker é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial jesseduffield/lazydocker para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/jesseduffield/lazydocker",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "lazydocker",
+      "repository_url": "https://github.com/jesseduffield/lazydocker.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "jesseduffield",
+    "homepage": "https://github.com/jesseduffield/lazydocker",
+    "executable": "lazydocker"
+  },
+  {
+    "slug": "fzf",
+    "name": "Fzf",
+    "category": "Extra",
+    "description": "Fzf é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial junegunn/fzf para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/junegunn/fzf",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "fzf",
+      "repository_url": "https://github.com/junegunn/fzf.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "junegunn",
+    "homepage": "https://github.com/junegunn/fzf",
+    "executable": "fzf"
+  },
+  {
+    "slug": "ripgrep",
+    "name": "Ripgrep",
+    "category": "Extra",
+    "description": "Ripgrep é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial BurntSushi/ripgrep para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/BurntSushi/ripgrep",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "ripgrep",
+      "repository_url": "https://github.com/BurntSushi/ripgrep.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "BurntSushi",
+    "homepage": "https://github.com/BurntSushi/ripgrep",
+    "executable": "ripgrep"
+  },
+  {
+    "slug": "fd",
+    "name": "Fd",
+    "category": "Extra",
+    "description": "Fd é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial sharkdp/fd para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/sharkdp/fd",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "fd",
+      "repository_url": "https://github.com/sharkdp/fd.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "sharkdp",
+    "homepage": "https://github.com/sharkdp/fd",
+    "executable": "fd"
+  },
+  {
+    "slug": "bat",
+    "name": "Bat",
+    "category": "Extra",
+    "description": "Bat é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial sharkdp/bat para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/sharkdp/bat",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "bat",
+      "repository_url": "https://github.com/sharkdp/bat.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "sharkdp",
+    "homepage": "https://github.com/sharkdp/bat",
+    "executable": "bat"
+  },
+  {
+    "slug": "eza",
+    "name": "Eza",
+    "category": "Extra",
+    "description": "Eza é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial eza-community/eza para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/eza-community/eza",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "eza",
+      "repository_url": "https://github.com/eza-community/eza.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "eza-community",
+    "homepage": "https://github.com/eza-community/eza",
+    "executable": "eza"
+  },
+  {
+    "slug": "zoxide",
+    "name": "Zoxide",
+    "category": "Extra",
+    "description": "Zoxide é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial ajeetdsouza/zoxide para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/ajeetdsouza/zoxide",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "zoxide",
+      "repository_url": "https://github.com/ajeetdsouza/zoxide.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "ajeetdsouza",
+    "homepage": "https://github.com/ajeetdsouza/zoxide",
+    "executable": "zoxide"
+  },
+  {
+    "slug": "starship",
+    "name": "Starship",
+    "category": "Extra",
+    "description": "Starship é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial starship/starship para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/starship/starship",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "starship",
+      "repository_url": "https://github.com/starship/starship.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "starship",
+    "homepage": "https://github.com/starship/starship",
+    "executable": "starship"
+  },
+  {
+    "slug": "delta",
+    "name": "Delta",
+    "category": "Extra",
+    "description": "Delta é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial dandavison/delta para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/dandavison/delta",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "delta",
+      "repository_url": "https://github.com/dandavison/delta.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "dandavison",
+    "homepage": "https://github.com/dandavison/delta",
+    "executable": "delta"
+  },
+  {
+    "slug": "hyperfine",
+    "name": "Hyperfine",
+    "category": "Extra",
+    "description": "Hyperfine é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial sharkdp/hyperfine para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/sharkdp/hyperfine",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "hyperfine",
+      "repository_url": "https://github.com/sharkdp/hyperfine.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "sharkdp",
+    "homepage": "https://github.com/sharkdp/hyperfine",
+    "executable": "hyperfine"
+  },
+  {
+    "slug": "semgrep",
+    "name": "Semgrep",
+    "category": "Extra",
+    "description": "Semgrep — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/semgrep/semgrep",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "semgrep",
+      "repository_url": "https://github.com/semgrep/semgrep.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "semgrep",
+    "homepage": "https://github.com/semgrep/semgrep",
+    "executable": "semgrep"
+  },
+  {
+    "slug": "grype",
+    "name": "Grype",
+    "category": "Extra",
+    "description": "Grype — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/anchore/grype",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "grype",
+      "repository_url": "https://github.com/anchore/grype.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "anchore",
+    "homepage": "https://github.com/anchore/grype",
+    "executable": "grype"
+  },
+  {
+    "slug": "syft",
+    "name": "Syft",
+    "category": "Extra",
+    "description": "Syft — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/anchore/syft",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "syft",
+      "repository_url": "https://github.com/anchore/syft.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "anchore",
+    "homepage": "https://github.com/anchore/syft",
+    "executable": "syft"
+  },
+  {
+    "slug": "trivy",
+    "name": "Trivy",
+    "category": "Extra",
+    "description": "Trivy — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/aquasecurity/trivy",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "trivy",
+      "repository_url": "https://github.com/aquasecurity/trivy.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "aquasecurity",
+    "homepage": "https://github.com/aquasecurity/trivy",
+    "executable": "trivy"
+  },
+  {
+    "slug": "osv-scanner",
+    "name": "OSV-Scanner",
+    "category": "Extra",
+    "description": "OSV-Scanner — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/google/osv-scanner",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "osv-scanner",
+      "repository_url": "https://github.com/google/osv-scanner.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "google",
+    "homepage": "https://github.com/google/osv-scanner",
+    "executable": "osv-scanner"
+  },
+  {
+    "slug": "zizmor",
+    "name": "Zizmor",
+    "category": "Extra",
+    "description": "Zizmor — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/woodruffw/zizmor",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "zizmor",
+      "repository_url": "https://github.com/woodruffw/zizmor.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "woodruffw",
+    "homepage": "https://github.com/woodruffw/zizmor",
+    "executable": "zizmor"
+  },
+  {
+    "slug": "checkov",
+    "name": "Checkov",
+    "category": "Extra",
+    "description": "Checkov — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/bridgecrewio/checkov",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "checkov",
+      "repository_url": "https://github.com/bridgecrewio/checkov.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "bridgecrewio",
+    "homepage": "https://github.com/bridgecrewio/checkov",
+    "executable": "checkov"
+  },
+  {
+    "slug": "terrascan",
+    "name": "Terrascan",
+    "category": "Extra",
+    "description": "Terrascan — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/tenable/terrascan",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "terrascan",
+      "repository_url": "https://github.com/tenable/terrascan.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "tenable",
+    "homepage": "https://github.com/tenable/terrascan",
+    "executable": "terrascan"
+  },
+  {
+    "slug": "tfsec",
+    "name": "tfsec",
+    "category": "Extra",
+    "description": "tfsec — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/aquasecurity/tfsec",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "tfsec",
+      "repository_url": "https://github.com/aquasecurity/tfsec.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "aquasecurity",
+    "homepage": "https://github.com/aquasecurity/tfsec",
+    "executable": "tfsec"
+  },
+  {
+    "slug": "kube-bench",
+    "name": "kube-bench",
+    "category": "Extra",
+    "description": "kube-bench — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/aquasecurity/kube-bench",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "kube-bench",
+      "repository_url": "https://github.com/aquasecurity/kube-bench.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "aquasecurity",
+    "homepage": "https://github.com/aquasecurity/kube-bench",
+    "executable": "kube-bench"
+  },
+  {
+    "slug": "hadolint",
+    "name": "Hadolint",
+    "category": "Extra",
+    "description": "Hadolint — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/hadolint/hadolint",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "hadolint",
+      "repository_url": "https://github.com/hadolint/hadolint.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "hadolint",
+    "homepage": "https://github.com/hadolint/hadolint",
+    "executable": "hadolint"
+  },
+  {
+    "slug": "shellcheck",
+    "name": "ShellCheck",
+    "category": "Extra",
+    "description": "ShellCheck — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/koalaman/shellcheck",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "shellcheck",
+      "repository_url": "https://github.com/koalaman/shellcheck.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "koalaman",
+    "homepage": "https://github.com/koalaman/shellcheck",
+    "executable": "shellcheck"
+  },
+  {
+    "slug": "shfmt",
+    "name": "shfmt",
+    "category": "Extra",
+    "description": "shfmt — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/mvdan/sh",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "sh",
+      "repository_url": "https://github.com/mvdan/sh.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "mvdan",
+    "homepage": "https://github.com/mvdan/sh",
+    "executable": "shfmt"
+  },
+  {
+    "slug": "actionlint",
+    "name": "Actionlint",
+    "category": "Extra",
+    "description": "Actionlint — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/rhysd/actionlint",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "actionlint",
+      "repository_url": "https://github.com/rhysd/actionlint.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "rhysd",
+    "homepage": "https://github.com/rhysd/actionlint",
+    "executable": "actionlint"
+  },
+  {
+    "slug": "detect-secrets",
+    "name": "detect-secrets",
+    "category": "Extra",
+    "description": "detect-secrets — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/Yelp/detect-secrets",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "detect-secrets",
+      "repository_url": "https://github.com/Yelp/detect-secrets.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "Yelp",
+    "homepage": "https://github.com/Yelp/detect-secrets",
+    "executable": "detect-secrets"
+  },
+  {
+    "slug": "bandit",
+    "name": "Bandit",
+    "category": "Extra",
+    "description": "Bandit — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/PyCQA/bandit",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "bandit",
+      "repository_url": "https://github.com/PyCQA/bandit.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "PyCQA",
+    "homepage": "https://github.com/PyCQA/bandit",
+    "executable": "bandit"
+  },
+  {
+    "slug": "pip-audit",
+    "name": "pip-audit",
+    "category": "Extra",
+    "description": "pip-audit — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/pypa/pip-audit",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "pip-audit",
+      "repository_url": "https://github.com/pypa/pip-audit.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "pypa",
+    "homepage": "https://github.com/pypa/pip-audit",
+    "executable": "pip-audit"
+  },
+  {
+    "slug": "cosign",
+    "name": "Cosign",
+    "category": "Extra",
+    "description": "Cosign — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/sigstore/cosign",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "cosign",
+      "repository_url": "https://github.com/sigstore/cosign.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "sigstore",
+    "homepage": "https://github.com/sigstore/cosign",
+    "executable": "cosign"
+  },
+  {
+    "slug": "crane",
+    "name": "Crane",
+    "category": "Extra",
+    "description": "Crane — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/google/go-containerregistry",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "go-containerregistry",
+      "repository_url": "https://github.com/google/go-containerregistry.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "google",
+    "homepage": "https://github.com/google/go-containerregistry",
+    "executable": "crane"
+  },
+  {
+    "slug": "oras",
+    "name": "ORAS",
+    "category": "Extra",
+    "description": "ORAS — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/oras-project/oras",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "oras",
+      "repository_url": "https://github.com/oras-project/oras.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "oras-project",
+    "homepage": "https://github.com/oras-project/oras",
+    "executable": "oras"
+  },
+  {
+    "slug": "dive",
+    "name": "Dive",
+    "category": "Extra",
+    "description": "Dive — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/wagoodman/dive",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "dive",
+      "repository_url": "https://github.com/wagoodman/dive.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "wagoodman",
+    "homepage": "https://github.com/wagoodman/dive",
+    "executable": "dive"
+  },
+  {
+    "slug": "regclient",
+    "name": "Regclient",
+    "category": "Extra",
+    "description": "Regclient — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/regclient/regclient",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "regclient",
+      "repository_url": "https://github.com/regclient/regclient.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "regclient",
+    "homepage": "https://github.com/regclient/regclient",
+    "executable": "regclient"
+  },
+  {
+    "slug": "skopeo",
+    "name": "Skopeo",
+    "category": "Extra",
+    "description": "Skopeo — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/containers/skopeo",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "skopeo",
+      "repository_url": "https://github.com/containers/skopeo.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "containers",
+    "homepage": "https://github.com/containers/skopeo",
+    "executable": "skopeo"
+  },
+  {
+    "slug": "trufflesecurity-trufflehog",
+    "name": "trufflehog",
+    "category": "Extra",
+    "description": "trufflehog é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial trufflesecurity/trufflehog para validação de compatibilidade e instalação no Termux.",
+    "author": "trufflesecurity",
+    "executable": "trufflehog",
+    "repository": "https://github.com/trufflesecurity/trufflehog",
+    "homepage": "https://github.com/trufflesecurity/trufflehog",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "trufflehog",
+      "repository_url": "https://github.com/trufflesecurity/trufflehog.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "gitleaks-gitleaks",
+    "name": "gitleaks",
+    "category": "Extra",
+    "description": "gitleaks é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial gitleaks/gitleaks para validação de compatibilidade e instalação no Termux.",
+    "author": "gitleaks",
+    "executable": "gitleaks",
+    "repository": "https://github.com/gitleaks/gitleaks",
+    "homepage": "https://github.com/gitleaks/gitleaks",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "gitleaks",
+      "repository_url": "https://github.com/gitleaks/gitleaks.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "zricethezav-gitleaks",
+    "name": "gitleaks",
+    "category": "Extra",
+    "description": "gitleaks é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial zricethezav/gitleaks para validação de compatibilidade e instalação no Termux.",
+    "author": "zricethezav",
+    "executable": "gitleaks",
+    "repository": "https://github.com/zricethezav/gitleaks",
+    "homepage": "https://github.com/zricethezav/gitleaks",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "gitleaks",
+      "repository_url": "https://github.com/zricethezav/gitleaks.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "gittools",
+    "name": "GitTools",
+    "category": "Extra",
+    "description": "GitTools é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial internetwache/GitTools para validação de compatibilidade e instalação no Termux.",
+    "author": "internetwache",
+    "executable": "gittools",
+    "repository": "https://github.com/internetwache/GitTools",
+    "homepage": "https://github.com/internetwache/GitTools",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "GitTools",
+      "repository_url": "https://github.com/internetwache/GitTools.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "gitrob",
+    "name": "gitrob",
+    "category": "Extra",
+    "description": "gitrob é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial michenriksen/gitrob para validação de compatibilidade e instalação no Termux.",
+    "author": "michenriksen",
+    "executable": "gitrob",
+    "repository": "https://github.com/michenriksen/gitrob",
+    "homepage": "https://github.com/michenriksen/gitrob",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "gitrob",
+      "repository_url": "https://github.com/michenriksen/gitrob.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "helix-editor-helix",
+    "name": "helix",
+    "category": "Extra",
+    "description": "helix é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial helix-editor/helix para validação de compatibilidade e instalação no Termux.",
+    "author": "helix-editor",
+    "executable": "helix",
+    "repository": "https://github.com/helix-editor/helix",
+    "homepage": "https://github.com/helix-editor/helix",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "helix",
+      "repository_url": "https://github.com/helix-editor/helix.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "neovim-neovim",
+    "name": "neovim",
+    "category": "Extra",
+    "description": "neovim é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial neovim/neovim para validação de compatibilidade e instalação no Termux.",
+    "author": "neovim",
+    "executable": "neovim",
+    "repository": "https://github.com/neovim/neovim",
+    "homepage": "https://github.com/neovim/neovim",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "neovim",
+      "repository_url": "https://github.com/neovim/neovim.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "vim",
+    "name": "vim",
+    "category": "Extra",
+    "description": "vim é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial vim/vim para validação de compatibilidade e instalação no Termux.",
+    "author": "vim",
+    "executable": "vim",
+    "repository": "https://github.com/vim/vim",
+    "homepage": "https://github.com/vim/vim",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "vim",
+      "repository_url": "https://github.com/vim/vim.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "cargo-binstall",
+    "name": "cargo-binstall",
+    "category": "Extra",
+    "description": "cargo-binstall é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial cargo-bins/cargo-binstall para validação de compatibilidade e instalação no Termux.",
+    "author": "cargo-bins",
+    "executable": "cargo-binstall",
+    "repository": "https://github.com/cargo-bins/cargo-binstall",
+    "homepage": "https://github.com/cargo-bins/cargo-binstall",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "cargo-binstall",
+      "repository_url": "https://github.com/cargo-bins/cargo-binstall.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "jesseduffield-lazygit",
+    "name": "lazygit",
+    "category": "Extra",
+    "description": "lazygit é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial jesseduffield/lazygit para validação de compatibilidade e instalação no Termux.",
+    "author": "jesseduffield",
+    "executable": "lazygit",
+    "repository": "https://github.com/jesseduffield/lazygit",
+    "homepage": "https://github.com/jesseduffield/lazygit",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "lazygit",
+      "repository_url": "https://github.com/jesseduffield/lazygit.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "jesseduffield-lazydocker",
+    "name": "lazydocker",
+    "category": "Extra",
+    "description": "lazydocker é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial jesseduffield/lazydocker para validação de compatibilidade e instalação no Termux.",
+    "author": "jesseduffield",
+    "executable": "lazydocker",
+    "repository": "https://github.com/jesseduffield/lazydocker",
+    "homepage": "https://github.com/jesseduffield/lazydocker",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "lazydocker",
+      "repository_url": "https://github.com/jesseduffield/lazydocker.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "kubectl",
+    "name": "kubectl",
+    "category": "Extra",
+    "description": "kubectl é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial kubernetes/kubectl para validação de compatibilidade e instalação no Termux.",
+    "author": "kubernetes",
+    "executable": "kubectl",
+    "repository": "https://github.com/kubernetes/kubectl",
+    "homepage": "https://github.com/kubernetes/kubectl",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "kubectl",
+      "repository_url": "https://github.com/kubernetes/kubectl.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "helm",
+    "name": "helm",
+    "category": "Extra",
+    "description": "helm é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial helm/helm para validação de compatibilidade e instalação no Termux.",
+    "author": "helm",
+    "executable": "helm",
+    "repository": "https://github.com/helm/helm",
+    "homepage": "https://github.com/helm/helm",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "helm",
+      "repository_url": "https://github.com/helm/helm.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "git-cliff",
+    "name": "git-cliff",
+    "category": "Extra",
+    "description": "git-cliff é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial orhun/git-cliff para validação de compatibilidade e instalação no Termux.",
+    "author": "orhun",
+    "executable": "git-cliff",
+    "repository": "https://github.com/orhun/git-cliff",
+    "homepage": "https://github.com/orhun/git-cliff",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "git-cliff",
+      "repository_url": "https://github.com/orhun/git-cliff.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "git-lfs",
+    "name": "git-lfs",
+    "category": "Extra",
+    "description": "git-lfs é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial git-lfs/git-lfs para validação de compatibilidade e instalação no Termux.",
+    "author": "git-lfs",
+    "executable": "git-lfs",
+    "repository": "https://github.com/git-lfs/git-lfs",
+    "homepage": "https://github.com/git-lfs/git-lfs",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "git-lfs",
+      "repository_url": "https://github.com/git-lfs/git-lfs.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "uv",
+    "name": "uv",
+    "category": "Extra",
+    "description": "uv é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial astral-sh/uv para validação de compatibilidade e instalação no Termux.",
+    "author": "astral-sh",
+    "executable": "uv",
+    "repository": "https://github.com/astral-sh/uv",
+    "homepage": "https://github.com/astral-sh/uv",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "uv",
+      "repository_url": "https://github.com/astral-sh/uv.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "ruff",
+    "name": "ruff",
+    "category": "Extra",
+    "description": "ruff é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial astral-sh/ruff para validação de compatibilidade e instalação no Termux.",
+    "author": "astral-sh",
+    "executable": "ruff",
+    "repository": "https://github.com/astral-sh/ruff",
+    "homepage": "https://github.com/astral-sh/ruff",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "ruff",
+      "repository_url": "https://github.com/astral-sh/ruff.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "pipx",
+    "name": "pipx",
+    "category": "Extra",
+    "description": "pipx é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial pypa/pipx para validação de compatibilidade e instalação no Termux.",
+    "author": "pypa",
+    "executable": "pipx",
+    "repository": "https://github.com/pypa/pipx",
+    "homepage": "https://github.com/pypa/pipx",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "pipx",
+      "repository_url": "https://github.com/pypa/pipx.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "poetry",
+    "name": "poetry",
+    "category": "Extra",
+    "description": "poetry é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial python-poetry/poetry para validação de compatibilidade e instalação no Termux.",
+    "author": "python-poetry",
+    "executable": "poetry",
+    "repository": "https://github.com/python-poetry/poetry",
+    "homepage": "https://github.com/python-poetry/poetry",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "poetry",
+      "repository_url": "https://github.com/python-poetry/poetry.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "pip",
+    "name": "pip",
+    "category": "Extra",
+    "description": "pip é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial pypa/pip para validação de compatibilidade e instalação no Termux.",
+    "author": "pypa",
+    "executable": "pip",
+    "repository": "https://github.com/pypa/pip",
+    "homepage": "https://github.com/pypa/pip",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "pip",
+      "repository_url": "https://github.com/pypa/pip.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "flask",
+    "name": "flask",
+    "category": "Extra",
+    "description": "flask é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial pallets/flask para validação de compatibilidade e instalação no Termux.",
+    "author": "pallets",
+    "executable": "flask",
+    "repository": "https://github.com/pallets/flask",
+    "homepage": "https://github.com/pallets/flask",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "flask",
+      "repository_url": "https://github.com/pallets/flask.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "fastapi",
+    "name": "fastapi",
+    "category": "Extra",
+    "description": "fastapi é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial fastapi/fastapi para validação de compatibilidade e instalação no Termux.",
+    "author": "fastapi",
+    "executable": "fastapi",
+    "repository": "https://github.com/fastapi/fastapi",
+    "homepage": "https://github.com/fastapi/fastapi",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "fastapi",
+      "repository_url": "https://github.com/fastapi/fastapi.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "uvicorn",
+    "name": "uvicorn",
+    "category": "Extra",
+    "description": "uvicorn é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial encode/uvicorn para validação de compatibilidade e instalação no Termux.",
+    "author": "encode",
+    "executable": "uvicorn",
+    "repository": "https://github.com/encode/uvicorn",
+    "homepage": "https://github.com/encode/uvicorn",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "uvicorn",
+      "repository_url": "https://github.com/encode/uvicorn.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "podman",
+    "name": "podman",
+    "category": "Extra",
+    "description": "podman é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial containers/podman para validação de compatibilidade e instalação no Termux.",
+    "author": "containers",
+    "executable": "podman",
+    "repository": "https://github.com/containers/podman",
+    "homepage": "https://github.com/containers/podman",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "podman",
+      "repository_url": "https://github.com/containers/podman.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "docker-cli",
+    "name": "cli",
+    "category": "Extra",
+    "description": "cli é uma utilitário de desenvolvimento, automação ou produtividade em linha de comando. Candidata do upstream oficial docker/cli para validação de compatibilidade e instalação no Termux.",
+    "author": "docker",
+    "executable": "cli",
+    "repository": "https://github.com/docker/cli",
+    "homepage": "https://github.com/docker/cli",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "cli",
+      "repository_url": "https://github.com/docker/cli.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  }
+]

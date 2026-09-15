@@ -1,0 +1,1927 @@
+[
+  {
+    "slug": "amass",
+    "name": "Amass",
+    "category": "Information Collection",
+    "description": "Amass é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial owasp-amass/amass para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/owasp-amass/amass",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "amass",
+      "repository_url": "https://github.com/owasp-amass/amass.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "owasp-amass",
+    "homepage": "https://github.com/owasp-amass/amass",
+    "executable": "amass"
+  },
+  {
+    "slug": "subfinder",
+    "name": "Subfinder",
+    "category": "Information Collection",
+    "description": "Subfinder é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial projectdiscovery/subfinder para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/projectdiscovery/subfinder",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "subfinder",
+      "repository_url": "https://github.com/projectdiscovery/subfinder.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "projectdiscovery",
+    "homepage": "https://github.com/projectdiscovery/subfinder",
+    "executable": "subfinder"
+  },
+  {
+    "slug": "assetfinder",
+    "name": "Assetfinder",
+    "category": "Information Collection",
+    "description": "Assetfinder é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial tomnomnom/assetfinder para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/tomnomnom/assetfinder",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "assetfinder",
+      "repository_url": "https://github.com/tomnomnom/assetfinder.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "tomnomnom",
+    "homepage": "https://github.com/tomnomnom/assetfinder",
+    "executable": "assetfinder"
+  },
+  {
+    "slug": "findomain",
+    "name": "Findomain",
+    "category": "Information Collection",
+    "description": "Findomain é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial Findomain/Findomain para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/Findomain/Findomain",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "Findomain",
+      "repository_url": "https://github.com/Findomain/Findomain.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "Findomain",
+    "homepage": "https://github.com/Findomain/Findomain",
+    "executable": "findomain"
+  },
+  {
+    "slug": "sublist3r",
+    "name": "Sublist3r",
+    "category": "Information Collection",
+    "description": "Sublist3r é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial aboul3la/Sublist3r para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/aboul3la/Sublist3r",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "Sublist3r",
+      "repository_url": "https://github.com/aboul3la/Sublist3r.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "aboul3la",
+    "homepage": "https://github.com/aboul3la/Sublist3r",
+    "executable": "sublist3r"
+  },
+  {
+    "slug": "dnsrecon",
+    "name": "DNSRecon",
+    "category": "Information Collection",
+    "description": "DNSRecon é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial darkoperator/dnsrecon para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/darkoperator/dnsrecon",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "dnsrecon",
+      "repository_url": "https://github.com/darkoperator/dnsrecon.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "darkoperator",
+    "homepage": "https://github.com/darkoperator/dnsrecon",
+    "executable": "dnsrecon"
+  },
+  {
+    "slug": "fierce",
+    "name": "Fierce",
+    "category": "Information Collection",
+    "description": "Fierce é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial mschwager/fierce para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/mschwager/fierce",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "fierce",
+      "repository_url": "https://github.com/mschwager/fierce.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "mschwager",
+    "homepage": "https://github.com/mschwager/fierce",
+    "executable": "fierce"
+  },
+  {
+    "slug": "massdns",
+    "name": "MassDNS",
+    "category": "Information Collection",
+    "description": "MassDNS é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial blechschmidt/massdns para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/blechschmidt/massdns",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "massdns",
+      "repository_url": "https://github.com/blechschmidt/massdns.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "blechschmidt",
+    "homepage": "https://github.com/blechschmidt/massdns",
+    "executable": "massdns"
+  },
+  {
+    "slug": "naabu",
+    "name": "Naabu",
+    "category": "Information Collection",
+    "description": "Naabu é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial projectdiscovery/naabu para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/projectdiscovery/naabu",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "naabu",
+      "repository_url": "https://github.com/projectdiscovery/naabu.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "projectdiscovery",
+    "homepage": "https://github.com/projectdiscovery/naabu",
+    "executable": "naabu"
+  },
+  {
+    "slug": "httpx",
+    "name": "Httpx",
+    "category": "Information Collection",
+    "description": "Httpx é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial projectdiscovery/httpx para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/projectdiscovery/httpx",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "httpx",
+      "repository_url": "https://github.com/projectdiscovery/httpx.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "projectdiscovery",
+    "homepage": "https://github.com/projectdiscovery/httpx",
+    "executable": "httpx"
+  },
+  {
+    "slug": "katana",
+    "name": "Katana",
+    "category": "Information Collection",
+    "description": "Katana é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial projectdiscovery/katana para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/projectdiscovery/katana",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "katana",
+      "repository_url": "https://github.com/projectdiscovery/katana.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "projectdiscovery",
+    "homepage": "https://github.com/projectdiscovery/katana",
+    "executable": "katana"
+  },
+  {
+    "slug": "nuclei",
+    "name": "Nuclei",
+    "category": "Information Collection",
+    "description": "Nuclei é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial projectdiscovery/nuclei para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/projectdiscovery/nuclei",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "nuclei",
+      "repository_url": "https://github.com/projectdiscovery/nuclei.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "projectdiscovery",
+    "homepage": "https://github.com/projectdiscovery/nuclei",
+    "executable": "nuclei"
+  },
+  {
+    "slug": "waybackurls",
+    "name": "Waybackurls",
+    "category": "Information Collection",
+    "description": "Waybackurls é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial tomnomnom/waybackurls para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/tomnomnom/waybackurls",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "waybackurls",
+      "repository_url": "https://github.com/tomnomnom/waybackurls.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "tomnomnom",
+    "homepage": "https://github.com/tomnomnom/waybackurls",
+    "executable": "waybackurls"
+  },
+  {
+    "slug": "gau",
+    "name": "Gau",
+    "category": "Information Collection",
+    "description": "Gau é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial lc/gau para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/lc/gau",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "gau",
+      "repository_url": "https://github.com/lc/gau.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "lc",
+    "homepage": "https://github.com/lc/gau",
+    "executable": "gau"
+  },
+  {
+    "slug": "unfurl",
+    "name": "Unfurl",
+    "category": "Information Collection",
+    "description": "Unfurl é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial tomnomnom/unfurl para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/tomnomnom/unfurl",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "unfurl",
+      "repository_url": "https://github.com/tomnomnom/unfurl.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "tomnomnom",
+    "homepage": "https://github.com/tomnomnom/unfurl",
+    "executable": "unfurl"
+  },
+  {
+    "slug": "gobuster",
+    "name": "Gobuster",
+    "category": "Information Collection",
+    "description": "Gobuster é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial OJ/gobuster para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/OJ/gobuster",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "gobuster",
+      "repository_url": "https://github.com/OJ/gobuster.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "OJ",
+    "homepage": "https://github.com/OJ/gobuster",
+    "executable": "gobuster"
+  },
+  {
+    "slug": "feroxbuster",
+    "name": "Feroxbuster",
+    "category": "Information Collection",
+    "description": "Feroxbuster é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial epi052/feroxbuster para validação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/epi052/feroxbuster",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "feroxbuster",
+      "repository_url": "https://github.com/epi052/feroxbuster.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated",
+        "lazymux/tool-x/katoolin ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "epi052",
+    "homepage": "https://github.com/epi052/feroxbuster",
+    "executable": "feroxbuster"
+  },
+  {
+    "slug": "anew",
+    "name": "Anew",
+    "category": "Information Collection",
+    "description": "Anew — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/tomnomnom/anew",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "anew",
+      "repository_url": "https://github.com/tomnomnom/anew.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "tomnomnom",
+    "homepage": "https://github.com/tomnomnom/anew",
+    "executable": "anew"
+  },
+  {
+    "slug": "qsreplace",
+    "name": "Qsreplace",
+    "category": "Information Collection",
+    "description": "Qsreplace — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/tomnomnom/qsreplace",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "qsreplace",
+      "repository_url": "https://github.com/tomnomnom/qsreplace.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "tomnomnom",
+    "homepage": "https://github.com/tomnomnom/qsreplace",
+    "executable": "qsreplace"
+  },
+  {
+    "slug": "uro",
+    "name": "Uro",
+    "category": "Information Collection",
+    "description": "Uro — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/s0md3v/uro",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "uro",
+      "repository_url": "https://github.com/s0md3v/uro.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "s0md3v",
+    "homepage": "https://github.com/s0md3v/uro",
+    "executable": "uro"
+  },
+  {
+    "slug": "hakrawler",
+    "name": "Hakrawler",
+    "category": "Information Collection",
+    "description": "Hakrawler — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/hakluke/hakrawler",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "hakrawler",
+      "repository_url": "https://github.com/hakluke/hakrawler.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "hakluke",
+    "homepage": "https://github.com/hakluke/hakrawler",
+    "executable": "hakrawler"
+  },
+  {
+    "slug": "meg",
+    "name": "Meg",
+    "category": "Information Collection",
+    "description": "Meg — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/tomnomnom/meg",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "meg",
+      "repository_url": "https://github.com/tomnomnom/meg.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "tomnomnom",
+    "homepage": "https://github.com/tomnomnom/meg",
+    "executable": "meg"
+  },
+  {
+    "slug": "dnsvalidator",
+    "name": "DNSValidator",
+    "category": "Information Collection",
+    "description": "DNSValidator — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/vortexau/dnsvalidator",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "dnsvalidator",
+      "repository_url": "https://github.com/vortexau/dnsvalidator.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "vortexau",
+    "homepage": "https://github.com/vortexau/dnsvalidator",
+    "executable": "dnsvalidator"
+  },
+  {
+    "slug": "puredns",
+    "name": "PureDNS",
+    "category": "Information Collection",
+    "description": "PureDNS — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/d3mondev/puredns",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "puredns",
+      "repository_url": "https://github.com/d3mondev/puredns.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "d3mondev",
+    "homepage": "https://github.com/d3mondev/puredns",
+    "executable": "puredns"
+  },
+  {
+    "slug": "shuffledns",
+    "name": "ShuffleDNS",
+    "category": "Information Collection",
+    "description": "ShuffleDNS — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/projectdiscovery/shuffledns",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "shuffledns",
+      "repository_url": "https://github.com/projectdiscovery/shuffledns.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "projectdiscovery",
+    "homepage": "https://github.com/projectdiscovery/shuffledns",
+    "executable": "shuffledns"
+  },
+  {
+    "slug": "uncover",
+    "name": "Uncover",
+    "category": "Information Collection",
+    "description": "Uncover — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/projectdiscovery/uncover",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "uncover",
+      "repository_url": "https://github.com/projectdiscovery/uncover.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "projectdiscovery",
+    "homepage": "https://github.com/projectdiscovery/uncover",
+    "executable": "uncover"
+  },
+  {
+    "slug": "alterx",
+    "name": "AlterX",
+    "category": "Information Collection",
+    "description": "AlterX — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/projectdiscovery/alterx",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "alterx",
+      "repository_url": "https://github.com/projectdiscovery/alterx.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "projectdiscovery",
+    "homepage": "https://github.com/projectdiscovery/alterx",
+    "executable": "alterx"
+  },
+  {
+    "slug": "interactsh",
+    "name": "Interactsh",
+    "category": "Information Collection",
+    "description": "Interactsh — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/projectdiscovery/interactsh",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "interactsh",
+      "repository_url": "https://github.com/projectdiscovery/interactsh.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "projectdiscovery",
+    "homepage": "https://github.com/projectdiscovery/interactsh",
+    "executable": "interactsh"
+  },
+  {
+    "slug": "mapcidr",
+    "name": "MapCIDR",
+    "category": "Information Collection",
+    "description": "MapCIDR — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/projectdiscovery/mapcidr",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "mapcidr",
+      "repository_url": "https://github.com/projectdiscovery/mapcidr.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "projectdiscovery",
+    "homepage": "https://github.com/projectdiscovery/mapcidr",
+    "executable": "mapcidr"
+  },
+  {
+    "slug": "asnmap",
+    "name": "ASNMap",
+    "category": "Information Collection",
+    "description": "ASNMap — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/projectdiscovery/asnmap",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "asnmap",
+      "repository_url": "https://github.com/projectdiscovery/asnmap.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "projectdiscovery",
+    "homepage": "https://github.com/projectdiscovery/asnmap",
+    "executable": "asnmap"
+  },
+  {
+    "slug": "tlsx",
+    "name": "TLSX",
+    "category": "Information Collection",
+    "description": "TLSX — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/projectdiscovery/tlsx",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "tlsx",
+      "repository_url": "https://github.com/projectdiscovery/tlsx.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "projectdiscovery",
+    "homepage": "https://github.com/projectdiscovery/tlsx",
+    "executable": "tlsx"
+  },
+  {
+    "slug": "cloudlist",
+    "name": "Cloudlist",
+    "category": "Information Collection",
+    "description": "Cloudlist — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/projectdiscovery/cloudlist",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "cloudlist",
+      "repository_url": "https://github.com/projectdiscovery/cloudlist.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "projectdiscovery",
+    "homepage": "https://github.com/projectdiscovery/cloudlist",
+    "executable": "cloudlist"
+  },
+  {
+    "slug": "proxify",
+    "name": "Proxify",
+    "category": "Information Collection",
+    "description": "Proxify — candidato upstream para avaliação de compatibilidade e instalação no Termux.",
+    "repository": "https://github.com/projectdiscovery/proxify",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "proxify",
+      "repository_url": "https://github.com/projectdiscovery/proxify.git",
+      "installation_tip": "Pré-cadastro via Git. Conferir README, dependências e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-2026",
+        "github-upstream"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    },
+    "author": "projectdiscovery",
+    "homepage": "https://github.com/projectdiscovery/proxify",
+    "executable": "proxify"
+  },
+  {
+    "slug": "projectdiscovery-katana",
+    "name": "katana",
+    "category": "Information Collection",
+    "description": "katana é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial projectdiscovery/katana para validação de compatibilidade e instalação no Termux.",
+    "author": "projectdiscovery",
+    "executable": "katana",
+    "repository": "https://github.com/projectdiscovery/katana",
+    "homepage": "https://github.com/projectdiscovery/katana",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "katana",
+      "repository_url": "https://github.com/projectdiscovery/katana.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "projectdiscovery-interactsh",
+    "name": "interactsh",
+    "category": "Information Collection",
+    "description": "interactsh é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial projectdiscovery/interactsh para validação de compatibilidade e instalação no Termux.",
+    "author": "projectdiscovery",
+    "executable": "interactsh",
+    "repository": "https://github.com/projectdiscovery/interactsh",
+    "homepage": "https://github.com/projectdiscovery/interactsh",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "interactsh",
+      "repository_url": "https://github.com/projectdiscovery/interactsh.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "projectdiscovery-uncover",
+    "name": "uncover",
+    "category": "Information Collection",
+    "description": "uncover é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial projectdiscovery/uncover para validação de compatibilidade e instalação no Termux.",
+    "author": "projectdiscovery",
+    "executable": "uncover",
+    "repository": "https://github.com/projectdiscovery/uncover",
+    "homepage": "https://github.com/projectdiscovery/uncover",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "uncover",
+      "repository_url": "https://github.com/projectdiscovery/uncover.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "projectdiscovery-alterx",
+    "name": "alterx",
+    "category": "Information Collection",
+    "description": "alterx é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial projectdiscovery/alterx para validação de compatibilidade e instalação no Termux.",
+    "author": "projectdiscovery",
+    "executable": "alterx",
+    "repository": "https://github.com/projectdiscovery/alterx",
+    "homepage": "https://github.com/projectdiscovery/alterx",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "alterx",
+      "repository_url": "https://github.com/projectdiscovery/alterx.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "projectdiscovery-shuffledns",
+    "name": "shuffledns",
+    "category": "Information Collection",
+    "description": "shuffledns é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial projectdiscovery/shuffledns para validação de compatibilidade e instalação no Termux.",
+    "author": "projectdiscovery",
+    "executable": "shuffledns",
+    "repository": "https://github.com/projectdiscovery/shuffledns",
+    "homepage": "https://github.com/projectdiscovery/shuffledns",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "shuffledns",
+      "repository_url": "https://github.com/projectdiscovery/shuffledns.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "chaos-client",
+    "name": "chaos-client",
+    "category": "Information Collection",
+    "description": "chaos-client é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial projectdiscovery/chaos-client para validação de compatibilidade e instalação no Termux.",
+    "author": "projectdiscovery",
+    "executable": "chaos-client",
+    "repository": "https://github.com/projectdiscovery/chaos-client",
+    "homepage": "https://github.com/projectdiscovery/chaos-client",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "chaos-client",
+      "repository_url": "https://github.com/projectdiscovery/chaos-client.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "lc-gau",
+    "name": "gau",
+    "category": "Information Collection",
+    "description": "gau é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial lc/gau para validação de compatibilidade e instalação no Termux.",
+    "author": "lc",
+    "executable": "gau",
+    "repository": "https://github.com/lc/gau",
+    "homepage": "https://github.com/lc/gau",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "gau",
+      "repository_url": "https://github.com/lc/gau.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "tomnomnom-waybackurls",
+    "name": "waybackurls",
+    "category": "Information Collection",
+    "description": "waybackurls é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial tomnomnom/waybackurls para validação de compatibilidade e instalação no Termux.",
+    "author": "tomnomnom",
+    "executable": "waybackurls",
+    "repository": "https://github.com/tomnomnom/waybackurls",
+    "homepage": "https://github.com/tomnomnom/waybackurls",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "waybackurls",
+      "repository_url": "https://github.com/tomnomnom/waybackurls.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "tomnomnom-assetfinder",
+    "name": "assetfinder",
+    "category": "Information Collection",
+    "description": "assetfinder é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial tomnomnom/assetfinder para validação de compatibilidade e instalação no Termux.",
+    "author": "tomnomnom",
+    "executable": "assetfinder",
+    "repository": "https://github.com/tomnomnom/assetfinder",
+    "homepage": "https://github.com/tomnomnom/assetfinder",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "assetfinder",
+      "repository_url": "https://github.com/tomnomnom/assetfinder.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "hakluke-hakrawler",
+    "name": "hakrawler",
+    "category": "Information Collection",
+    "description": "hakrawler é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial hakluke/hakrawler para validação de compatibilidade e instalação no Termux.",
+    "author": "hakluke",
+    "executable": "hakrawler",
+    "repository": "https://github.com/hakluke/hakrawler",
+    "homepage": "https://github.com/hakluke/hakrawler",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "hakrawler",
+      "repository_url": "https://github.com/hakluke/hakrawler.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "hakrevdns",
+    "name": "hakrevdns",
+    "category": "Information Collection",
+    "description": "hakrevdns é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial hakluke/hakrevdns para validação de compatibilidade e instalação no Termux.",
+    "author": "hakluke",
+    "executable": "hakrevdns",
+    "repository": "https://github.com/hakluke/hakrevdns",
+    "homepage": "https://github.com/hakluke/hakrevdns",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "hakrevdns",
+      "repository_url": "https://github.com/hakluke/hakrevdns.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "haklistgen",
+    "name": "haklistgen",
+    "category": "Information Collection",
+    "description": "haklistgen é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial hakluke/haklistgen para validação de compatibilidade e instalação no Termux.",
+    "author": "hakluke",
+    "executable": "haklistgen",
+    "repository": "https://github.com/hakluke/haklistgen",
+    "homepage": "https://github.com/hakluke/haklistgen",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "haklistgen",
+      "repository_url": "https://github.com/hakluke/haklistgen.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "hakcheckurl",
+    "name": "hakcheckurl",
+    "category": "Information Collection",
+    "description": "hakcheckurl é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial hakluke/hakcheckurl para validação de compatibilidade e instalação no Termux.",
+    "author": "hakluke",
+    "executable": "hakcheckurl",
+    "repository": "https://github.com/hakluke/hakcheckurl",
+    "homepage": "https://github.com/hakluke/hakcheckurl",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "hakcheckurl",
+      "repository_url": "https://github.com/hakluke/hakcheckurl.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "owasp-amass",
+    "name": "Amass",
+    "category": "Information Collection",
+    "description": "Amass é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial OWASP/Amass para validação de compatibilidade e instalação no Termux.",
+    "author": "OWASP",
+    "executable": "amass",
+    "repository": "https://github.com/OWASP/Amass",
+    "homepage": "https://github.com/OWASP/Amass",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "Amass",
+      "repository_url": "https://github.com/OWASP/Amass.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "gowitness",
+    "name": "gowitness",
+    "category": "Information Collection",
+    "description": "gowitness é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial sensepost/gowitness para validação de compatibilidade e instalação no Termux.",
+    "author": "sensepost",
+    "executable": "gowitness",
+    "repository": "https://github.com/sensepost/gowitness",
+    "homepage": "https://github.com/sensepost/gowitness",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "gowitness",
+      "repository_url": "https://github.com/sensepost/gowitness.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "blechschmidt-massdns",
+    "name": "massdns",
+    "category": "Information Collection",
+    "description": "massdns é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial blechschmidt/massdns para validação de compatibilidade e instalação no Termux.",
+    "author": "blechschmidt",
+    "executable": "massdns",
+    "repository": "https://github.com/blechschmidt/massdns",
+    "homepage": "https://github.com/blechschmidt/massdns",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "massdns",
+      "repository_url": "https://github.com/blechschmidt/massdns.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "projectdiscovery-dnsx",
+    "name": "dnsx",
+    "category": "Information Collection",
+    "description": "dnsx é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial projectdiscovery/dnsx para validação de compatibilidade e instalação no Termux.",
+    "author": "projectdiscovery",
+    "executable": "dnsx",
+    "repository": "https://github.com/projectdiscovery/dnsx",
+    "homepage": "https://github.com/projectdiscovery/dnsx",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "dnsx",
+      "repository_url": "https://github.com/projectdiscovery/dnsx.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "altdns",
+    "name": "altdns",
+    "category": "Information Collection",
+    "description": "altdns é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial infosec-au/altdns para validação de compatibilidade e instalação no Termux.",
+    "author": "infosec-au",
+    "executable": "altdns",
+    "repository": "https://github.com/infosec-au/altdns",
+    "homepage": "https://github.com/infosec-au/altdns",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "altdns",
+      "repository_url": "https://github.com/infosec-au/altdns.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "robertdavidgraham-masscan",
+    "name": "masscan",
+    "category": "Information Collection",
+    "description": "masscan é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial robertdavidgraham/masscan para validação de compatibilidade e instalação no Termux.",
+    "author": "robertdavidgraham",
+    "executable": "masscan",
+    "repository": "https://github.com/robertdavidgraham/masscan",
+    "homepage": "https://github.com/robertdavidgraham/masscan",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "masscan",
+      "repository_url": "https://github.com/robertdavidgraham/masscan.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "rustscan-rustscan",
+    "name": "RustScan",
+    "category": "Information Collection",
+    "description": "RustScan é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial RustScan/RustScan para validação de compatibilidade e instalação no Termux.",
+    "author": "RustScan",
+    "executable": "rustscan",
+    "repository": "https://github.com/RustScan/RustScan",
+    "homepage": "https://github.com/RustScan/RustScan",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "RustScan",
+      "repository_url": "https://github.com/RustScan/RustScan.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "zmap-zmap",
+    "name": "zmap",
+    "category": "Information Collection",
+    "description": "zmap é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial zmap/zmap para validação de compatibilidade e instalação no Termux.",
+    "author": "zmap",
+    "executable": "zmap",
+    "repository": "https://github.com/zmap/zmap",
+    "homepage": "https://github.com/zmap/zmap",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "zmap",
+      "repository_url": "https://github.com/zmap/zmap.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  },
+  {
+    "slug": "encode-httpx",
+    "name": "httpx",
+    "category": "Information Collection",
+    "description": "httpx é uma ferramenta de reconhecimento, descoberta de ativos e coleta técnica. Candidata do upstream oficial encode/httpx para validação de compatibilidade e instalação no Termux.",
+    "author": "encode",
+    "executable": "httpx",
+    "repository": "https://github.com/encode/httpx",
+    "homepage": "https://github.com/encode/httpx",
+    "source_type": "github",
+    "install": {
+      "method": "git",
+      "dependencies": [
+        "git"
+      ],
+      "repository_name": "httpx",
+      "repository_url": "https://github.com/encode/httpx.git",
+      "installation_tip": "Pré-cadastro via Git. Validar requisitos do upstream e execução no Termux antes de promover para Ativa."
+    },
+    "termux": {
+      "compatible": null,
+      "root_required": false,
+      "status": "experimental"
+    },
+    "metadata": {
+      "discovered_from": [
+        "curated-upstream",
+        "ENNA/awesome-lists/Termux ecosystem"
+      ],
+      "upstream_active": null,
+      "last_verified": null,
+      "publish": false,
+      "review_required": true
+    }
+  }
+]
